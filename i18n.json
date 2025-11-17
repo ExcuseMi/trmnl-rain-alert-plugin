@@ -1,162 +1,530 @@
 {
-  "snow_now_little": [
-    "It's snowing a little right now",
-    "Light snow at the moment",
-    "A bit of snow falling now"
-  ],
-  "snow_now_couple": [
-    "It's snowing right now",
-    "Snow falling for the next couple hours",
-    "Snowing for a little while"
-  ],
-  "snow_now_few": [
-    "It's gonna snow for a few hours",
-    "Snow for the next few hours",
-    "Snowing for a while"
-  ],
-  "snow_all_night": [
-    "Snow all night",
-    "It's gonna snow all night",
-    "Snowy night ahead"
-  ],
-  "snow_all_morning": [
-    "Snow all morning",
-    "Snowy morning ahead",
-    "It's gonna snow all morning"
-  ],
-  "snow_all_afternoon": [
-    "Snow all afternoon",
-    "Snowy afternoon ahead",
-    "It's gonna snow all afternoon"
-  ],
-  "snow_all_day": [
-    "Snow all day",
-    "It's gonna snow all day",
-    "Snowy day ahead"
-  ],
-  "rain_now_little": [
-    "It's raining a little right now",
-    "Light rain at the moment",
-    "A bit of rain falling now"
-  ],
-  "rain_now_couple": [
-    "It's raining right now",
-    "Rain for the next couple hours",
-    "Raining for a little while"
-  ],
-  "rain_now_few": [
-    "It's gonna rain for a few hours",
-    "Rain for the next few hours",
-    "Raining for a while"
-  ],
-  "rain_all_night": [
-    "Rain all night",
-    "It's gonna rain all night",
-    "Rainy night ahead"
-  ],
-  "rain_all_morning": [
-    "Rain all morning",
-    "Rainy morning ahead",
-    "It's gonna rain all morning"
-  ],
-  "rain_all_afternoon": [
-    "Rain all afternoon",
-    "Rainy afternoon ahead",
-    "It's gonna rain all afternoon"
-  ],
-  "rain_all_day": [
-    "Rain all day",
-    "It's gonna rain all day",
-    "Rainy day ahead"
-  ],
-  "snow_imminent": [
-    "Snow starting any moment now",
-    "About to start snowing",
-    "Snow incoming"
-  ],
-  "snow_1h_light": [
-    "Light snow in about an hour",
-    "A bit of snow coming in an hour",
-    "Snow in an hour or so"
-  ],
-  "snow_1h_heavy": [
-    "Snow in about an hour",
-    "Expect snow in an hour",
-    "Snow coming in an hour"
-  ],
-  "snow_2h_light": [
-    "Light snow in a couple hours",
-    "A bit of snow in about 2 hours",
-    "Snow in a couple hours"
-  ],
-  "snow_2h_heavy": [
-    "Snow in about 2 hours",
-    "Expect snow in a couple hours",
-    "Snow coming in 2 hours"
-  ],
-  "snow_time_light": [
-    "Light snow {time}",
-    "A bit of snow {time}",
-    "Some snow {time}"
-  ],
-  "snow_time_heavy": [
-    "Snow {time}",
-    "Expect snow {time}",
-    "Snow coming {time}"
-  ],
-  "snow_later_light": [
-    "Light snow expected later",
-    "A bit of snow later today",
-    "Some snow coming later"
-  ],
-  "snow_later_heavy": [
-    "Snow expected later today",
-    "Snow coming later",
-    "Expect snow later"
-  ],
-  "rain_imminent": [
-    "Rain starting any moment now",
-    "About to start raining",
-    "Rain incoming"
-  ],
-  "rain_1h_light": [
-    "Light rain in about an hour",
-    "A bit of rain coming in an hour",
-    "Rain in an hour or so"
-  ],
-  "rain_1h_heavy": [
-    "Rain in about an hour",
-    "Expect rain in an hour",
-    "Rain coming in an hour"
-  ],
-  "rain_2h_light": [
-    "Light rain in a couple hours",
-    "A bit of rain in about 2 hours",
-    "Rain in a couple hours"
-  ],
-  "rain_2h_heavy": [
-    "Rain in about 2 hours",
-    "Expect rain in a couple hours",
-    "Rain coming in 2 hours"
-  ],
-  "rain_time_light": [
-    "Light rain {time}",
-    "A bit of rain {time}",
-    "Some rain {time}"
-  ],
-  "rain_time_heavy": [
-    "Rain {time}",
-    "Expect rain {time}",
-    "Rain coming {time}"
-  ],
-  "rain_later_light": [
-    "Light rain expected later",
-    "A bit of rain later today",
-    "Some rain coming later"
-  ],
-  "rain_later_heavy": [
-    "Rain expected later today",
-    "Rain coming later",
-    "Expect rain later"
-  ]
+  "en": {
+    "no_rain": [
+      "No rain expected anytime soon",
+      "Clear skies ahead",
+      "Looks dry for a while",
+      "No rain on the horizon",
+      "All clear for now"
+    ],
+    "snow_now_little": [
+      "It's snowing a little right now",
+      "Light snow at the moment",
+      "A bit of snow falling now"
+    ],
+    "snow_now_couple": [
+      "It's snowing right now",
+      "Snow falling for the next couple hours",
+      "Snowing for a little while"
+    ],
+    "snow_now_few": [
+      "It's gonna snow for a few hours",
+      "Snow for the next few hours",
+      "Snowing for a while"
+    ],
+    "snow_all_night": [
+      "Snow all night",
+      "It's gonna snow all night",
+      "Snowy night ahead"
+    ],
+    "snow_all_morning": [
+      "Snow all morning",
+      "Snowy morning ahead",
+      "It's gonna snow all morning"
+    ],
+    "snow_all_afternoon": [
+      "Snow all afternoon",
+      "Snowy afternoon ahead",
+      "It's gonna snow all afternoon"
+    ],
+    "snow_all_day": [
+      "Snow all day",
+      "It's gonna snow all day",
+      "Snowy day ahead"
+    ],
+    "rain_now_little": [
+      "It's raining a little right now",
+      "Light rain at the moment",
+      "A bit of rain falling now"
+    ],
+    "rain_now_couple": [
+      "It's raining right now",
+      "Rain for the next couple hours",
+      "Raining for a little while"
+    ],
+    "rain_now_few": [
+      "It's gonna rain for a few hours",
+      "Rain for the next few hours",
+      "Raining for a while"
+    ],
+    "rain_all_night": [
+      "Rain all night",
+      "It's gonna rain all night",
+      "Rainy night ahead"
+    ],
+    "rain_all_morning": [
+      "Rain all morning",
+      "Rainy morning ahead",
+      "It's gonna rain all morning"
+    ],
+    "rain_all_afternoon": [
+      "Rain all afternoon",
+      "Rainy afternoon ahead",
+      "It's gonna rain all afternoon"
+    ],
+    "rain_all_day": [
+      "Rain all day",
+      "It's gonna rain all day",
+      "Rainy day ahead"
+    ],
+    "snow_imminent": [
+      "Snow starting any moment now",
+      "About to start snowing",
+      "Snow incoming"
+    ],
+    "snow_1h_light": [
+      "Light snow in about an hour",
+      "A bit of snow coming in an hour",
+      "Snow in an hour or so"
+    ],
+    "snow_1h_heavy": [
+      "Snow in about an hour",
+      "Expect snow in an hour",
+      "Snow coming in an hour"
+    ],
+    "snow_2h_light": [
+      "Light snow in a couple hours",
+      "A bit of snow in about 2 hours",
+      "Snow in a couple hours"
+    ],
+    "snow_2h_heavy": [
+      "Snow in about 2 hours",
+      "Expect snow in a couple hours",
+      "Snow coming in 2 hours"
+    ],
+    "snow_time_light": [
+      "Light snow {time}",
+      "A bit of snow {time}",
+      "Some snow {time}"
+    ],
+    "snow_time_heavy": [
+      "Snow {time}",
+      "Expect snow {time}",
+      "Snow coming {time}"
+    ],
+    "snow_later_light": [
+      "Light snow expected later",
+      "A bit of snow later today",
+      "Some snow coming later"
+    ],
+    "snow_later_heavy": [
+      "Snow expected later today",
+      "Snow coming later",
+      "Expect snow later"
+    ],
+    "rain_imminent": [
+      "Rain starting any moment now",
+      "About to start raining",
+      "Rain incoming"
+    ],
+    "rain_1h_light": [
+      "Light rain in about an hour",
+      "A bit of rain coming in an hour",
+      "Rain in an hour or so"
+    ],
+    "rain_1h_heavy": [
+      "Rain in about an hour",
+      "Expect rain in an hour",
+      "Rain coming in an hour"
+    ],
+    "rain_2h_light": [
+      "Light rain in a couple hours",
+      "A bit of rain in about 2 hours",
+      "Rain in a couple hours"
+    ],
+    "rain_2h_heavy": [
+      "Rain in about 2 hours",
+      "Expect rain in a couple hours",
+      "Rain coming in 2 hours"
+    ],
+    "rain_time_light": [
+      "Light rain {time}",
+      "A bit of rain {time}",
+      "Some rain {time}"
+    ],
+    "rain_time_heavy": [
+      "Rain {time}",
+      "Expect rain {time}",
+      "Rain coming {time}"
+    ],
+    "rain_later_light": [
+      "Light rain expected later",
+      "A bit of rain later today",
+      "Some rain coming later"
+    ],
+    "rain_later_heavy": [
+      "Rain expected later today",
+      "Rain coming later",
+      "Expect rain later"
+    ],
+    "time_early_morning": "early morning",
+    "time_this_morning": "this morning",
+    "time_around_midday": "around midday",
+    "time_this_afternoon": "this afternoon",
+    "time_early_evening": "early evening",
+    "time_this_evening": "this evening",
+    "time_tonight": "tonight"
+  },
+  "nl": {
+    "no_rain": [
+      "Geen regen verwacht de komende tijd",
+      "Heldere luchten op komst",
+      "Het blijft droog voor een tijdje",
+      "Geen regen in zicht",
+      "Alles blijft droog"
+    ],
+    "snow_now_little": [
+      "Het sneeuwt een beetje",
+      "Lichte sneeuw op dit moment",
+      "Een beetje sneeuw nu"
+    ],
+    "snow_now_couple": [
+      "Het sneeuwt nu",
+      "Sneeuw voor de komende paar uur",
+      "Het sneeuwt nog even"
+    ],
+    "snow_now_few": [
+      "Het gaat nog een paar uur sneeuwen",
+      "Sneeuw voor de komende uren",
+      "Het blijft nog even sneeuwen"
+    ],
+    "snow_all_night": [
+      "De hele nacht sneeuw",
+      "Het gaat de hele nacht sneeuwen",
+      "Besneeuwde nacht op komst"
+    ],
+    "snow_all_morning": [
+      "De hele ochtend sneeuw",
+      "Besneeuwde ochtend op komst",
+      "Het gaat de hele ochtend sneeuwen"
+    ],
+    "snow_all_afternoon": [
+      "De hele namiddag sneeuw",
+      "Besneeuwde namiddag op komst",
+      "Het gaat de hele namiddag sneeuwen"
+    ],
+    "snow_all_day": [
+      "De hele dag sneeuw",
+      "Het gaat de hele dag sneeuwen",
+      "Besneeuwde dag op komst"
+    ],
+    "rain_now_little": [
+      "Het regent een beetje",
+      "Lichte regen op dit moment",
+      "Een beetje regen nu"
+    ],
+    "rain_now_couple": [
+      "Het regent nu",
+      "Regen voor de komende paar uur",
+      "Het regent nog even"
+    ],
+    "rain_now_few": [
+      "Het gaat nog een paar uur regenen",
+      "Regen voor de komende uren",
+      "Het blijft nog even regenen"
+    ],
+    "rain_all_night": [
+      "De hele nacht regen",
+      "Het gaat de hele nacht regenen",
+      "Regenachtige nacht op komst"
+    ],
+    "rain_all_morning": [
+      "De hele ochtend regen",
+      "Regenachtige ochtend op komst",
+      "Het gaat de hele ochtend regenen"
+    ],
+    "rain_all_afternoon": [
+      "De hele namiddag regen",
+      "Regenachtige namiddag op komst",
+      "Het gaat de hele namiddag regenen"
+    ],
+    "rain_all_day": [
+      "De hele dag regen",
+      "Het gaat de hele dag regenen",
+      "Regenachtige dag op komst"
+    ],
+    "snow_imminent": [
+      "Het begint zo te sneeuwen",
+      "Het gaat meteen beginnen sneeuwen",
+      "Sneeuw op komst"
+    ],
+    "snow_1h_light": [
+      "Lichte sneeuw over ongeveer een uur",
+      "Een beetje sneeuw over een uur",
+      "Sneeuw over een uurtje"
+    ],
+    "snow_1h_heavy": [
+      "Sneeuw over ongeveer een uur",
+      "Verwacht sneeuw over een uur",
+      "Sneeuw komt over een uur"
+    ],
+    "snow_2h_light": [
+      "Lichte sneeuw over een paar uur",
+      "Een beetje sneeuw over ongeveer 2 uur",
+      "Sneeuw over een paar uurtjes"
+    ],
+    "snow_2h_heavy": [
+      "Sneeuw over ongeveer 2 uur",
+      "Verwacht sneeuw over een paar uur",
+      "Sneeuw komt over 2 uur"
+    ],
+    "snow_time_light": [
+      "Lichte sneeuw {time}",
+      "Een beetje sneeuw {time}",
+      "Wat sneeuw {time}"
+    ],
+    "snow_time_heavy": [
+      "Sneeuw {time}",
+      "Verwacht sneeuw {time}",
+      "Sneeuw op komst {time}"
+    ],
+    "snow_later_light": [
+      "Lichte sneeuw verwacht later",
+      "Een beetje sneeuw later vandaag",
+      "Wat sneeuw komt later"
+    ],
+    "snow_later_heavy": [
+      "Sneeuw verwacht later vandaag",
+      "Sneeuw komt later",
+      "Verwacht sneeuw later"
+    ],
+    "rain_imminent": [
+      "Het begint zo te regenen",
+      "Het gaat meteen beginnen regenen",
+      "Regen op komst"
+    ],
+    "rain_1h_light": [
+      "Lichte regen over ongeveer een uur",
+      "Een beetje regen over een uur",
+      "Regen over een uurtje"
+    ],
+    "rain_1h_heavy": [
+      "Regen over ongeveer een uur",
+      "Verwacht regen over een uur",
+      "Regen komt over een uur"
+    ],
+    "rain_2h_light": [
+      "Lichte regen over een paar uur",
+      "Een beetje regen over ongeveer 2 uur",
+      "Regen over een paar uurtjes"
+    ],
+    "rain_2h_heavy": [
+      "Regen over ongeveer 2 uur",
+      "Verwacht regen over een paar uur",
+      "Regen komt over 2 uur"
+    ],
+    "rain_time_light": [
+      "Lichte regen {time}",
+      "Een beetje regen {time}",
+      "Wat regen {time}"
+    ],
+    "rain_time_heavy": [
+      "Regen {time}",
+      "Verwacht regen {time}",
+      "Regen op komst {time}"
+    ],
+    "rain_later_light": [
+      "Lichte regen verwacht later",
+      "Een beetje regen later vandaag",
+      "Wat regen komt later"
+    ],
+    "rain_later_heavy": [
+      "Regen verwacht later vandaag",
+      "Regen komt later",
+      "Verwacht regen later"
+    ],
+    "time_early_morning": "vroeg in de ochtend",
+    "time_this_morning": "deze ochtend",
+    "time_around_midday": "rond de middag",
+    "time_this_afternoon": "deze namiddag",
+    "time_early_evening": "vroeg in de avond",
+    "time_this_evening": "deze avond",
+    "time_tonight": "vanavond"
+  },
+  "fr": {
+    "no_rain": [
+      "Pas de pluie prévue prochainement",
+      "Ciel dégagé en vue",
+      "Ça va rester sec un moment",
+      "Pas de pluie à l'horizon",
+      "Tout reste au sec"
+    ],
+    "snow_now_little": [
+      "Il neige un peu en ce moment",
+      "Légère neige actuellement",
+      "Un peu de neige maintenant"
+    ],
+    "snow_now_couple": [
+      "Il neige maintenant",
+      "Neige pour les prochaines heures",
+      "Il neige pour un moment"
+    ],
+    "snow_now_few": [
+      "Il va neiger pendant quelques heures",
+      "Neige pour les prochaines heures",
+      "Il neigera pendant un moment"
+    ],
+    "snow_all_night": [
+      "Neige toute la nuit",
+      "Il va neiger toute la nuit",
+      "Nuit neigeuse en vue"
+    ],
+    "snow_all_morning": [
+      "Neige toute la matinée",
+      "Matinée neigeuse en vue",
+      "Il va neiger toute la matinée"
+    ],
+    "snow_all_afternoon": [
+      "Neige tout l'après-midi",
+      "Après-midi neigeux en vue",
+      "Il va neiger tout l'après-midi"
+    ],
+    "snow_all_day": [
+      "Neige toute la journée",
+      "Il va neiger toute la journée",
+      "Journée neigeuse en vue"
+    ],
+    "rain_now_little": [
+      "Il pleut un peu en ce moment",
+      "Légère pluie actuellement",
+      "Un peu de pluie maintenant"
+    ],
+    "rain_now_couple": [
+      "Il pleut maintenant",
+      "Pluie pour les prochaines heures",
+      "Il pleut pour un moment"
+    ],
+    "rain_now_few": [
+      "Il va pleuvoir pendant quelques heures",
+      "Pluie pour les prochaines heures",
+      "Il pleuvra pendant un moment"
+    ],
+    "rain_all_night": [
+      "Pluie toute la nuit",
+      "Il va pleuvoir toute la nuit",
+      "Nuit pluvieuse en vue"
+    ],
+    "rain_all_morning": [
+      "Pluie toute la matinée",
+      "Matinée pluvieuse en vue",
+      "Il va pleuvoir toute la matinée"
+    ],
+    "rain_all_afternoon": [
+      "Pluie tout l'après-midi",
+      "Après-midi pluvieux en vue",
+      "Il va pleuvoir tout l'après-midi"
+    ],
+    "rain_all_day": [
+      "Pluie toute la journée",
+      "Il va pleuvoir toute la journée",
+      "Journée pluvieuse en vue"
+    ],
+    "snow_imminent": [
+      "La neige va commencer d'un moment à l'autre",
+      "Il va commencer à neiger",
+      "Neige imminente"
+    ],
+    "snow_1h_light": [
+      "Légère neige dans environ une heure",
+      "Un peu de neige dans une heure",
+      "Neige dans une heure environ"
+    ],
+    "snow_1h_heavy": [
+      "Neige dans environ une heure",
+      "Attendez-vous à de la neige dans une heure",
+      "Neige arrive dans une heure"
+    ],
+    "snow_2h_light": [
+      "Légère neige dans quelques heures",
+      "Un peu de neige dans environ 2 heures",
+      "Neige dans quelques heures"
+    ],
+    "snow_2h_heavy": [
+      "Neige dans environ 2 heures",
+      "Attendez-vous à de la neige dans quelques heures",
+      "Neige arrive dans 2 heures"
+    ],
+    "snow_time_light": [
+      "Légère neige {time}",
+      "Un peu de neige {time}",
+      "Quelques neiges {time}"
+    ],
+    "snow_time_heavy": [
+      "Neige {time}",
+      "Attendez-vous à de la neige {time}",
+      "Neige à venir {time}"
+    ],
+    "snow_later_light": [
+      "Légère neige prévue plus tard",
+      "Un peu de neige plus tard aujourd'hui",
+      "Quelques neiges à venir plus tard"
+    ],
+    "snow_later_heavy": [
+      "Neige prévue plus tard aujourd'hui",
+      "Neige à venir plus tard",
+      "Attendez-vous à de la neige plus tard"
+    ],
+    "rain_imminent": [
+      "La pluie va commencer d'un moment à l'autre",
+      "Il va commencer à pleuvoir",
+      "Pluie imminente"
+    ],
+    "rain_1h_light": [
+      "Légère pluie dans environ une heure",
+      "Un peu de pluie dans une heure",
+      "Pluie dans une heure environ"
+    ],
+    "rain_1h_heavy": [
+      "Pluie dans environ une heure",
+      "Attendez-vous à de la pluie dans une heure",
+      "Pluie arrive dans une heure"
+    ],
+    "rain_2h_light": [
+      "Légère pluie dans quelques heures",
+      "Un peu de pluie dans environ 2 heures",
+      "Pluie dans quelques heures"
+    ],
+    "rain_2h_heavy": [
+      "Pluie dans environ 2 heures",
+      "Attendez-vous à de la pluie dans quelques heures",
+      "Pluie arrive dans 2 heures"
+    ],
+    "rain_time_light": [
+      "Légère pluie {time}",
+      "Un peu de pluie {time}",
+      "Quelques pluies {time}"
+    ],
+    "rain_time_heavy": [
+      "Pluie {time}",
+      "Attendez-vous à de la pluie {time}",
+      "Pluie à venir {time}"
+    ],
+    "rain_later_light": [
+      "Légère pluie prévue plus tard",
+      "Un peu de pluie plus tard aujourd'hui",
+      "Quelques pluies à venir plus tard"
+    ],
+    "rain_later_heavy": [
+      "Pluie prévue plus tard aujourd'hui",
+      "Pluie à venir plus tard",
+      "Attendez-vous à de la pluie plus tard"
+    ],
+    "time_early_morning": "tôt le matin",
+    "time_this_morning": "ce matin",
+    "time_around_midday": "vers midi",
+    "time_this_afternoon": "cet après-midi",
+    "time_early_evening": "en début de soirée",
+    "time_this_evening": "ce soir",
+    "time_tonight": "ce soir"
+  }
 }
