@@ -1,0 +1,162 @@
+{
+  "snow_now_little": [
+    "It's snowing a little right now",
+    "Light snow at the moment",
+    "A bit of snow falling now"
+  ],
+  "snow_now_couple": [
+    "It's snowing right now",
+    "Snow falling for the next couple hours",
+    "Snowing for a little while"
+  ],
+  "snow_now_few": [
+    "It's gonna snow for a few hours",
+    "Snow for the next few hours",
+    "Snowing for a while"
+  ],
+  "snow_all_night": [
+    "Snow all night",
+    "It's gonna snow all night",
+    "Snowy night ahead"
+  ],
+  "snow_all_morning": [
+    "Snow all morning",
+    "Snowy morning ahead",
+    "It's gonna snow all morning"
+  ],
+  "snow_all_afternoon": [
+    "Snow all afternoon",
+    "Snowy afternoon ahead",
+    "It's gonna snow all afternoon"
+  ],
+  "snow_all_day": [
+    "Snow all day",
+    "It's gonna snow all day",
+    "Snowy day ahead"
+  ],
+  "rain_now_little": [
+    "It's raining a little right now",
+    "Light rain at the moment",
+    "A bit of rain falling now"
+  ],
+  "rain_now_couple": [
+    "It's raining right now",
+    "Rain for the next couple hours",
+    "Raining for a little while"
+  ],
+  "rain_now_few": [
+    "It's gonna rain for a few hours",
+    "Rain for the next few hours",
+    "Raining for a while"
+  ],
+  "rain_all_night": [
+    "Rain all night",
+    "It's gonna rain all night",
+    "Rainy night ahead"
+  ],
+  "rain_all_morning": [
+    "Rain all morning",
+    "Rainy morning ahead",
+    "It's gonna rain all morning"
+  ],
+  "rain_all_afternoon": [
+    "Rain all afternoon",
+    "Rainy afternoon ahead",
+    "It's gonna rain all afternoon"
+  ],
+  "rain_all_day": [
+    "Rain all day",
+    "It's gonna rain all day",
+    "Rainy day ahead"
+  ],
+  "snow_imminent": [
+    "Snow starting any moment now",
+    "About to start snowing",
+    "Snow incoming"
+  ],
+  "snow_1h_light": [
+    "Light snow in about an hour",
+    "A bit of snow coming in an hour",
+    "Snow in an hour or so"
+  ],
+  "snow_1h_heavy": [
+    "Snow in about an hour",
+    "Expect snow in an hour",
+    "Snow coming in an hour"
+  ],
+  "snow_2h_light": [
+    "Light snow in a couple hours",
+    "A bit of snow in about 2 hours",
+    "Snow in a couple hours"
+  ],
+  "snow_2h_heavy": [
+    "Snow in about 2 hours",
+    "Expect snow in a couple hours",
+    "Snow coming in 2 hours"
+  ],
+  "snow_time_light": [
+    "Light snow {time}",
+    "A bit of snow {time}",
+    "Some snow {time}"
+  ],
+  "snow_time_heavy": [
+    "Snow {time}",
+    "Expect snow {time}",
+    "Snow coming {time}"
+  ],
+  "snow_later_light": [
+    "Light snow expected later",
+    "A bit of snow later today",
+    "Some snow coming later"
+  ],
+  "snow_later_heavy": [
+    "Snow expected later today",
+    "Snow coming later",
+    "Expect snow later"
+  ],
+  "rain_imminent": [
+    "Rain starting any moment now",
+    "About to start raining",
+    "Rain incoming"
+  ],
+  "rain_1h_light": [
+    "Light rain in about an hour",
+    "A bit of rain coming in an hour",
+    "Rain in an hour or so"
+  ],
+  "rain_1h_heavy": [
+    "Rain in about an hour",
+    "Expect rain in an hour",
+    "Rain coming in an hour"
+  ],
+  "rain_2h_light": [
+    "Light rain in a couple hours",
+    "A bit of rain in about 2 hours",
+    "Rain in a couple hours"
+  ],
+  "rain_2h_heavy": [
+    "Rain in about 2 hours",
+    "Expect rain in a couple hours",
+    "Rain coming in 2 hours"
+  ],
+  "rain_time_light": [
+    "Light rain {time}",
+    "A bit of rain {time}",
+    "Some rain {time}"
+  ],
+  "rain_time_heavy": [
+    "Rain {time}",
+    "Expect rain {time}",
+    "Rain coming {time}"
+  ],
+  "rain_later_light": [
+    "Light rain expected later",
+    "A bit of rain later today",
+    "Some rain coming later"
+  ],
+  "rain_later_heavy": [
+    "Rain expected later today",
+    "Rain coming later",
+    "Expect rain later"
+  ]
+}
