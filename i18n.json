@@ -1,6 +1,7 @@
 {
   "en": {
     "soon": "soon",
+    "hours": "h",
     "rain_now_duration": [
       "It's raining now, should last {duration} hours",
       "Rainfall for the next {duration} hours",
@@ -29,6 +30,7 @@
   },
   "es": {
     "soon": "pronto",
+    "hours": "h",
     "rain_now_duration": [
       "Está lloviendo ahora, durará {duration} horas",
       "Lluvia durante las próximas {duration} horas",
@@ -57,6 +59,7 @@
   },
   "fr": {
     "soon": "bientôt",
+    "hours": "h",
     "rain_now_duration": [
       "Il pleut maintenant, devrait durer {duration} heures",
       "Pluie pendant {duration} heures",
@@ -85,6 +88,7 @@
   },
   "de": {
     "soon": "bald",
+    "hours": "h",
     "rain_now_duration": [
       "Es regnet jetzt, dauert {duration} Stunden",
       "Regen für {duration} Stunden",
@@ -113,6 +117,7 @@
   },
   "zh": {
     "soon": "很快",
+    "hours": "小时",
     "rain_now_duration": [
       "正在下雨，将持续{duration}小时",
       "降雨{duration}小时",
@@ -141,6 +146,7 @@
   },
   "hi": {
     "soon": "जल्दी",
+    "hours": "घंटे",
     "rain_now_duration": [
       "अभी बारिश हो रही है, {duration} घंटे तक रहेगी",
       "अगले {duration} घंटे बारिश",
@@ -169,6 +175,7 @@
   },
   "ar": {
     "soon": "قريباً",
+    "hours": "ساعة",
     "rain_now_duration": [
       "تمطر الآن، ستستمر {duration} ساعة",
       "أمطار لمدة {duration} ساعة",
@@ -197,6 +204,7 @@
   },
   "pt": {
     "soon": "em breve",
+    "hours": "h",
     "rain_now_duration": [
       "Está chovendo agora, deve durar {duration} horas",
       "Chuva por {duration} horas",
@@ -225,6 +233,7 @@
   },
   "ru": {
     "soon": "скоро",
+    "hours": "ч",
     "rain_now_duration": [
       "Сейчас идет дождь, продлится {duration} часов",
       "Дождь в течение {duration} часов",
@@ -253,6 +262,7 @@
   },
   "ja": {
     "soon": "すぐに",
+    "hours": "時間",
     "rain_now_duration": [
       "現在雨が降っています、{duration}時間続きます",
       "{duration}時間の降雨",
