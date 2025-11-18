@@ -29,36 +29,36 @@
             "Clear skies {time_context}"
         ]
     },
-    "nl": {
-        "soon": "binnenkort",
-        "hours": "uur",
-        "time_context": "in de komende {hours}",
-        "rain_now_duration": [
-            "Het regent nu, duurt nog {duration} uur",
-            "Regen voor de komende {duration} uur",
-            "Nu regen, gaat door voor {duration} uur"
-        ],
-        "snow_now_duration": [
-            "Het sneeuwt nu, duurt nog {duration} uur",
-            "Sneeuw voor de komende {duration} uur",
-            "Nu sneeuw, gaat door voor {duration} uur"
-        ],
-        "rain_later_duration": [
-            "Regen {hours} (voor {duration} uur)",
-            "Regen verwacht {hours} (duurt {duration} uur)",
-            "Waarschijnlijk regen {hours} (voor {duration} uur)"
-        ],
-        "snow_later_duration": [
-            "Sneeuw {hours} (voor {duration} uur)",
-            "Sneeuw verwacht {hours} (duurt {duration} uur)",
-            "Waarschijnlijk sneeuw {hours} (voor {duration} uur)"
-        ],
-        "no_precipitation": [
-            "Geen regen verwacht {time_context}",
-            "Droog {time_context}",
-            "Opklaringen {time_context}"
-        ]
-    },
+      "nl": {
+    "soon": "de komende tijd",
+    "hours": "uur",
+    "time_context": "in de komende {hours}",
+    "rain_now_duration": [
+      "Het regent nu, duurt nog {duration} uur",
+      "Regen voor de komende {duration} uur",
+      "Nu regen, gaat door voor {duration} uur"
+    ],
+    "snow_now_duration": [
+      "Het sneeuwt nu, duurt nog {duration} uur",
+      "Sneeuw voor de komende {duration} uur",
+      "Nu sneeuw, gaat door voor {duration} uur"
+    ],
+    "rain_later_duration": [
+      "Regen {hours} (voor {duration} uur)",
+      "Regen verwacht {hours} (duurt {duration} uur)",
+      "Waarschijnlijk regen {hours} (voor {duration} uur)"
+    ],
+    "snow_later_duration": [
+      "Sneeuw {hours} (voor {duration} uur)",
+      "Sneeuw verwacht {hours} (duurt {duration} uur)",
+      "Waarschijnlijk sneeuw {hours} (voor {duration} uur)"
+    ],
+    "no_precipitation": [
+      "Geen regen verwacht {time_context}",
+      "Blijft droog {time_context}",
+      "Opklaringen {time_context}"
+    ]
+  },
     "es": {
         "soon": "pronto",
         "hours": "horas",
