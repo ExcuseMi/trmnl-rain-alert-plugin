@@ -1,272 +1,282 @@
 {
   "en": {
+    "soon": "soon",
     "rain_now_duration": [
-      "It's raining now (about {duration}h)",
-      "Rainfall ongoing (~{duration}h)",
-      "Currently raining (roughly {duration}h)"
+      "It's raining now, should last {duration} hours",
+      "Rainfall for the next {duration} hours",
+      "Raining now, continuing for {duration} hours"
     ],
     "snow_now_duration": [
-      "It's snowing now (about {duration}h)",
-      "Snowfall ongoing (~{duration}h)", 
-      "Currently snowing (roughly {duration}h)"
+      "It's snowing now, should last {duration} hours",
+      "Snowfall for the next {duration} hours", 
+      "Snowing now, continuing for {duration} hours"
     ],
     "rain_later_duration": [
-      "Rain in about {hours}h (for ~{duration}h)",
-      "Rain expected in {hours}h (around {duration}h)",
-      "Rain likely in {hours}h (~{duration}h duration)"
+      "Rain coming {hours} (for {duration} hours)",
+      "Expect rain {hours} (lasting {duration} hours)",
+      "Rain likely {hours} (for {duration} hours)"
     ],
     "snow_later_duration": [
-      "Snow in about {hours}h (for ~{duration}h)",
-      "Snow expected in {hours}h (around {duration}h)",
-      "Snow likely in {hours}h (~{duration}h duration)"
+      "Snow coming {hours} (for {duration} hours)",
+      "Expect snow {hours} (lasting {duration} hours)",
+      "Snow likely {hours} (for {duration} hours)"
     ],
     "no_precipitation": [
-      "No rain or snow expected in the next {hours}h",
-      "Likely dry for the next {hours}h",
-      "No rain or snow expected soon"
+      "No rain or snow expected {hours}",
+      "Looks dry {hours}",
+      "Clear skies {hours}"
     ]
   },
   "es": {
+    "soon": "pronto",
     "rain_now_duration": [
-      "Está lloviendo ahora (aprox. {duration}h)",
-      "Lluvia en curso (~{duration}h)",
-      "Actualmente lloviendo (unos {duration}h)"
+      "Está lloviendo ahora, durará {duration} horas",
+      "Lluvia durante las próximas {duration} horas",
+      "Llueve ahora, continuará {duration} horas"
     ],
     "snow_now_duration": [
-      "Está nevando ahora (aprox. {duration}h)",
-      "Nevada en curso (~{duration}h)",
-      "Actualmente nevando (unos {duration}h)"
+      "Está nevando ahora, durará {duration} horas",
+      "Nieve durante las próximas {duration} horas",
+      "Nieva ahora, continuará {duration} horas"
     ],
     "rain_later_duration": [
-      "Lluvia en unas {hours}h (aprox. {duration}h)",
-      "Lluvia esperada en {hours}h (unos {duration}h)",
-      "Probable lluvia en {hours}h (~{duration}h)"
+      "Lluvia {hours} (durante {duration} horas)",
+      "Espera lluvia {hours} (dura {duration} horas)",
+      "Probable lluvia {hours} (por {duration} horas)"
     ],
     "snow_later_duration": [
-      "Nieve en unas {hours}h (aprox. {duration}h)",
-      "Nieve esperada en {hours}h (unos {duration}h)",
-      "Probable nieve en {hours}h (~{duration}h)"
+      "Nieve {hours} (durante {duration} horas)",
+      "Espera nieve {hours} (dura {duration} horas)",
+      "Probable nieve {hours} (por {duration} horas)"
     ],
     "no_precipitation": [
-      "No se espera lluvia ni nieve en las próximas {hours}h",
-      "Probablemente seco las próximas {hours}h",
-      "No se espera lluvia ni nieve pronto"
+      "No se espera lluvia ni nieve {hours}",
+      "Parece seco {hours}",
+      "Cielos despejados {hours}"
     ]
   },
   "fr": {
+    "soon": "bientôt",
     "rain_now_duration": [
-      "Il pleut actuellement (environ {duration}h)",
-      "Pluie en cours (~{duration}h)",
-      "Précipitations (approx. {duration}h)"
+      "Il pleut maintenant, devrait durer {duration} heures",
+      "Pluie pendant {duration} heures",
+      "Il pleut, continue pendant {duration} heures"
     ],
     "snow_now_duration": [
-      "Il neige actuellement (environ {duration}h)",
-      "Chute de neige (~{duration}h)",
-      "Neige en cours (approx. {duration}h)"
+      "Il neige maintenant, devrait durer {duration} heures",
+      "Neige pendant {duration} heures",
+      "Il neige, continue pendant {duration} heures"
     ],
     "rain_later_duration": [
-      "Pluie dans environ {hours}h (pour ~{duration}h)",
-      "Pluie attendue dans {hours}h (environ {duration}h)",
-      "Pluie probable dans {hours}h (~{duration}h)"
+      "Pluie {hours} (pendant {duration} heures)",
+      "Pluie attendue {hours} (dure {duration} heures)",
+      "Pluie probable {hours} (pour {duration} heures)"
     ],
     "snow_later_duration": [
-      "Neige dans environ {hours}h (pour ~{duration}h)",
-      "Neige attendue dans {hours}h (environ {duration}h)",
-      "Neige probable dans {hours}h (~{duration}h)"
+      "Neige {hours} (pendant {duration} heures)",
+      "Neige attendue {hours} (dure {duration} heures)",
+      "Neige probable {hours} (pour {duration} heures)"
     ],
     "no_precipitation": [
-      "Pas de pluie ni de neige attendue dans les {hours}h",
-      "Probablement sec pendant {hours}h",
-      "Pas de pluie ni de neige attendue bientôt"
+      "Pas de pluie ni neige {hours}",
+      "Sec {hours}",
+      "Ciel dégagé {hours}"
     ]
   },
   "de": {
+    "soon": "bald",
     "rain_now_duration": [
-      "Es regnet jetzt (ca. {duration}h)",
-      "Regen dauert an (~{duration}h)",
-      "Aktuell regnet es (etwa {duration}h)"
+      "Es regnet jetzt, dauert {duration} Stunden",
+      "Regen für {duration} Stunden",
+      "Regnet jetzt, weiter {duration} Stunden"
     ],
     "snow_now_duration": [
-      "Es schneit jetzt (ca. {duration}h)",
-      "Schneefall dauert an (~{duration}h)",
-      "Aktuell schneit es (etwa {duration}h)"
+      "Es schneit jetzt, dauert {duration} Stunden",
+      "Schnee für {duration} Stunden",
+      "Schneit jetzt, weiter {duration} Stunden"
     ],
     "rain_later_duration": [
-      "Regen in ca. {hours}h (für ~{duration}h)",
-      "Regen in {hours}h erwartet (etwa {duration}h)",
-      "Wahrscheinlich Regen in {hours}h (~{duration}h)"
+      "Regen {hours} (für {duration} Stunden)",
+      "Regen erwartet {hours} (dauert {duration} Stunden)",
+      "Wahrscheinlich Regen {hours} (für {duration} Stunden)"
     ],
     "snow_later_duration": [
-      "Schnee in ca. {hours}h (für ~{duration}h)",
-      "Schnee in {hours}h erwartet (etwa {duration}h)",
-      "Wahrscheinlich Schnee in {hours}h (~{duration}h)"
+      "Schnee {hours} (für {duration} Stunden)",
+      "Schnee erwartet {hours} (dauert {duration} Stunden)",
+      "Wahrscheinlich Schnee {hours} (für {duration} Stunden)"
     ],
     "no_precipitation": [
-      "Kein Regen oder Schnee in den nächsten {hours}h erwartet",
-      "Wahrscheinlich trocken für {hours}h",
-      "Kein Regen oder Schnee bald erwartet"
+      "Kein Regen oder Schnee {hours}",
+      "Trocken {hours}",
+      "Klarer Himmel {hours}"
     ]
   },
   "zh": {
+    "soon": "很快",
     "rain_now_duration": [
-      "正在下雨 (约{duration}小时)",
-      "持续降雨 (~{duration}小时)",
-      "目前有雨 (大约{duration}小时)"
+      "正在下雨，将持续{duration}小时",
+      "降雨{duration}小时",
+      "现在下雨，持续{duration}小时"
     ],
     "snow_now_duration": [
-      "正在下雪 (约{duration}小时)",
-      "持续降雪 (~{duration}小时)",
-      "目前有雪 (大约{duration}小时)"
+      "正在下雪，将持续{duration}小时",
+      "降雪{duration}小时",
+      "现在下雪，持续{duration}小时"
     ],
     "rain_later_duration": [
-      "约{hours}小时后有雨 (约{duration}小时)",
-      "预计{hours}小时左右有雨 (约{duration}小时)",
-      "可能{hours}小时后下雨 (~{duration}小时)"
+      "{hours}有雨 (持续{duration}小时)",
+      "预计{hours}有雨 (持续{duration}小时)",
+      "可能{hours}下雨 (持续{duration}小时)"
     ],
     "snow_later_duration": [
-      "约{hours}小时后有雪 (约{duration}小时)",
-      "预计{hours}小时左右有雪 (约{duration}小时)",
-      "可能{hours}小时后下雪 (~{duration}小时)"
+      "{hours}有雪 (持续{duration}小时)",
+      "预计{hours}有雪 (持续{duration}小时)",
+      "可能{hours}下雪 (持续{duration}小时)"
     ],
     "no_precipitation": [
-      "未来{hours}小时无雨雪预期",
-      "未来{hours}小时可能干燥",
-      "短期内无雨雪预期"
+      "{hours}无雨雪",
+      "{hours}天气干燥",
+      "{hours}晴朗"
     ]
   },
   "hi": {
+    "soon": "जल्दी",
     "rain_now_duration": [
-      "अभी बारिश हो रही है (लगभग {duration}घंटे)",
-      "बारिश जारी है (~{duration}घंटे)",
-      "वर्तमान में बारिश (करीब {duration}घंटे)"
+      "अभी बारिश हो रही है, {duration} घंटे तक रहेगी",
+      "अगले {duration} घंटे बारिश",
+      "अभी बारिश, {duration} घंटे तक जारी"
     ],
     "snow_now_duration": [
-      "अभी बर्फबारी हो रही है (लगभग {duration}घंटे)",
-      "बर्फबारी जारी है (~{duration}घंटे)",
-      "वर्तमान में बर्फबारी (करीब {duration}घंटे)"
+      "अभी बर्फबारी हो रही है, {duration} घंटे तक रहेगी",
+      "अगले {duration} घंटे बर्फबारी",
+      "अभी बर्फबारी, {duration} घंटे तक जारी"
     ],
     "rain_later_duration": [
-      "लगभग {hours}घंटे में बारिश (~{duration}घंटे)",
-      "{hours}घंटे में बारिश की संभावना (करीब {duration}घंटे)",
-      "शायद {hours}घंटे में बारिश (~{duration}घंटे)"
+      "{hours} बारिश ({duration} घंटे तक)",
+      "{hours} बारिश की उम्मीद ({duration} घंटे)",
+      "शायद {hours} बारिश ({duration} घंटे)"
     ],
     "snow_later_duration": [
-      "लगभग {hours}घंटे में बर्फबारी (~{duration}घंटे)",
-      "{hours}घंटे में बर्फबारी की संभावना (करीब {duration}घंटे)",
-      "शायद {hours}घंटे में बर्फबारी (~{duration}घंटे)"
+      "{hours} बर्फबारी ({duration} घंटे तक)",
+      "{hours} बर्फबारी की उम्मीद ({duration} घंटे)",
+      "शायद {hours} बर्फबारी ({duration} घंटे)"
     ],
     "no_precipitation": [
-      "अगले {hours}घंटे में बारिश या बर्फबारी की संभावना नहीं",
-      "अगले {hours}घंटे शायद सूखे रहेंगे",
-      "जल्द ही बारिश या बर्फबारी की संभावना नहीं"
+      "{hours} बारिश या बर्फबारी नहीं",
+      "{hours} सूखा रहेगा",
+      "{hours} साफ आसमान"
     ]
   },
   "ar": {
+    "soon": "قريباً",
     "rain_now_duration": [
-      "تمطر الآن (قرابة {duration}ساعة)",
-      "أمطار مستمرة (~{duration}ساعة)",
-      "تهطل أمطار حالياً (تقريباً {duration}ساعة)"
+      "تمطر الآن، ستستمر {duration} ساعة",
+      "أمطار لمدة {duration} ساعة",
+      "تمطر الآن، تستمر {duration} ساعة"
     ],
     "snow_now_duration": [
-      "تثلج الآن (قرابة {duration}ساعة)",
-      "ثلوج مستمرة (~{duration}ساعة)",
-      "تهطل ثلوج حالياً (تقريباً {duration}ساعة)"
+      "تثلج الآن، ستستمر {duration} ساعة",
+      "ثلوج لمدة {duration} ساعة",
+      "تثلج الآن، تستمر {duration} ساعة"
     ],
     "rain_later_duration": [
-      "أمطار بعد قرابة {hours}ساعة (لـ ~{duration}ساعة)",
-      "أمطار متوقعة بعد {hours}ساعة (قرابة {duration}ساعة)",
-      "أمطار محتملة بعد {hours}ساعة (~{duration}ساعة)"
+      "أمطار {hours} (لمدة {duration} ساعة)",
+      "أمطار متوقعة {hours} (تستمر {duration} ساعة)",
+      "أمطار محتملة {hours} (لمدة {duration} ساعة)"
     ],
     "snow_later_duration": [
-      "ثلوج بعد قرابة {hours}ساعة (لـ ~{duration}ساعة)",
-      "ثلوج متوقعة بعد {hours}ساعة (قرابة {duration}ساعة)",
-      "ثلوج محتملة بعد {hours}ساعة (~{duration}ساعة)"
+      "ثلوج {hours} (لمدة {duration} ساعة)",
+      "ثلوج متوقعة {hours} (تستمر {duration} ساعة)",
+      "ثلوج محتملة {hours} (لمدة {duration} ساعة)"
     ],
     "no_precipitation": [
-      "لا أمطار أو ثلوج متوقعة في {hours}ساعة القادمة",
-      "الجو جاف على الأرجح في {hours}ساعة القادمة",
-      "لا أمطار أو ثلوج متوقعة قريباً"
+      "لا أمطار أو ثلوج {hours}",
+      "جو جاف {hours}",
+      "سماء صافية {hours}"
     ]
   },
   "pt": {
+    "soon": "em breve",
     "rain_now_duration": [
-      "Está chovendo agora (cerca de {duration}h)",
-      "Chuva contínua (~{duration}h)",
-      "Chovendo atualmente (aproximadamente {duration}h)"
+      "Está chovendo agora, deve durar {duration} horas",
+      "Chuva por {duration} horas",
+      "Chovendo agora, continua por {duration} horas"
     ],
     "snow_now_duration": [
-      "Está nevando agora (cerca de {duration}h)",
-      "Neve contínua (~{duration}h)",
-      "Nevando atualmente (aproximadamente {duration}h)"
+      "Está nevando agora, deve durar {duration} horas",
+      "Neve por {duration} horas",
+      "Nevando agora, continua por {duration} horas"
     ],
     "rain_later_duration": [
-      "Chuva em cerca de {hours}h (por ~{duration}h)",
-      "Chuva esperada em {hours}h (cerca de {duration}h)",
-      "Chuva provável em {hours}h (~{duration}h)"
+      "Chuva {hours} (por {duration} horas)",
+      "Chuva esperada {hours} (dura {duration} horas)",
+      "Chuva provável {hours} (por {duration} horas)"
     ],
     "snow_later_duration": [
-      "Neve em cerca de {hours}h (por ~{duration}h)",
-      "Neve esperada em {hours}h (cerca de {duration}h)",
-      "Neve provável em {hours}h (~{duration}h)"
+      "Neve {hours} (por {duration} horas)",
+      "Neve esperada {hours} (dura {duration} horas)",
+      "Neve provável {hours} (por {duration} horas)"
     ],
     "no_precipitation": [
-      "Sem chuva ou neve esperada nas próximas {hours}h",
-      "Provavelmente seco pelas próximas {hours}h",
-      "Sem chuva ou neve esperada em breve"
+      "Sem chuva ou neve {hours}",
+      "Seco {hours}",
+      "Céu limpo {hours}"
     ]
   },
   "ru": {
+    "soon": "скоро",
     "rain_now_duration": [
-      "Сейчас идет дождь (около {duration}ч)",
-      "Дождь продолжается (~{duration}ч)",
-      "В настоящее время дождь (примерно {duration}ч)"
+      "Сейчас идет дождь, продлится {duration} часов",
+      "Дождь в течение {duration} часов",
+      "Дождь сейчас, продолжается {duration} часов"
     ],
     "snow_now_duration": [
-      "Сейчас идет снег (около {duration}ч)",
-      "Снегопад продолжается (~{duration}ч)",
-      "В настоящее время снег (примерно {duration}ч)"
+      "Сейчас идет снег, продлится {duration} часов",
+      "Снег в течение {duration} часов",
+      "Снег сейчас, продолжается {duration} часов"
     ],
     "rain_later_duration": [
-      "Дождь примерно через {hours}ч (на ~{duration}ч)",
-      "Ожидается дождь через {hours}ч (около {duration}ч)",
-      "Вероятен дождь через {hours}ч (~{duration}ч)"
+      "Дождь {hours} (на {duration} часов)",
+      "Ожидается дождь {hours} (продлится {duration} часов)",
+      "Вероятен дождь {hours} (на {duration} часов)"
     ],
     "snow_later_duration": [
-      "Снег примерно через {hours}ч (на ~{duration}ч)",
-      "Ожидается снег через {hours}ч (около {duration}ч)",
-      "Вероятен снег через {hours}ч (~{duration}ч)"
+      "Снег {hours} (на {duration} часов)",
+      "Ожидается снег {hours} (продлится {duration} часов)",
+      "Вероятен снег {hours} (на {duration} часов)"
     ],
     "no_precipitation": [
-      "Осадков не ожидается в ближайшие {hours}ч",
-      "Вероятно, сухо в течение {hours}ч",
-      "Скоро дождя или снега не ожидается"
+      "Без дождя и снега {hours}",
+      "Сухо {hours}",
+      "Ясное небо {hours}"
     ]
   },
   "ja": {
+    "soon": "すぐに",
     "rain_now_duration": [
-      "現在雨が降っています (約{duration}時間)",
-      "降雨が続いています (~{duration}時間)",
-      "現在降雨中 (およそ{duration}時間)"
+      "現在雨が降っています、{duration}時間続きます",
+      "{duration}時間の降雨",
+      "現在降雨中、{duration}時間続きます"
     ],
     "snow_now_duration": [
-      "現在雪が降っています (約{duration}時間)",
-      "降雪が続いています (~{duration}時間)",
-      "現在降雪中 (およそ{duration}時間)"
+      "現在雪が降っています、{duration}時間続きます",
+      "{duration}時間の降雪",
+      "現在降雪中、{duration}時間続きます"
     ],
     "rain_later_duration": [
-      "約{hours}時間後に雨 (約{duration}時間)",
-      "{hours}時間後に雨の予定 (およそ{duration}時間)",
-      "{hours}時間後に雨が降る可能性 (~{duration}時間)"
+      "{hours}に雨 ({duration}時間続く)",
+      "{hours}に雨の予定 ({duration}時間)",
+      "{hours}に雨が降るかも ({duration}時間)"
     ],
     "snow_later_duration": [
-      "約{hours}時間後に雪 (約{duration}時間)",
-      "{hours}時間後に雪の予定 (およそ{duration}時間)",
-      "{hours}時間後に雪が降る可能性 (~{duration}時間)"
+      "{hours}に雪 ({duration}時間続く)",
+      "{hours}に雪の予定 ({duration}時間)",
+      "{hours}に雪が降るかも ({duration}時間)"
     ],
     "no_precipitation": [
-      "今後{hours}時間は雨や雪の予想はありません",
-      "おそらく今後{hours}時間は乾燥しています",
-      "すぐに雨や雪の予想はありません"
+      "{hours}雨や雪の予想なし",
+      "{hours}乾燥",
+      "{hours}晴れ"
     ]
   }
 }
