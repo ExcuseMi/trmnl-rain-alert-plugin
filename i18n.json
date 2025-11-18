@@ -23,7 +23,7 @@
     "no_precipitation": [
       "No rain or snow expected in the next {hours}h",
       "Likely dry for the next {hours}h",
-      "No precipitation expected soon"
+      "No rain or snow expected soon"
     ]
   },
   "es": {
@@ -50,7 +50,7 @@
     "no_precipitation": [
       "No se espera lluvia ni nieve en las próximas {hours}h",
       "Probablemente seco las próximas {hours}h",
-      "No se esperan precipitaciones pronto"
+      "No se espera lluvia ni nieve pronto"
     ]
   },
   "fr": {
@@ -77,7 +77,7 @@
     "no_precipitation": [
       "Pas de pluie ni de neige attendue dans les {hours}h",
       "Probablement sec pendant {hours}h",
-      "Aucune précipitation attendue prochainement"
+      "Pas de pluie ni de neige attendue bientôt"
     ]
   },
   "de": {
@@ -104,7 +104,7 @@
     "no_precipitation": [
       "Kein Regen oder Schnee in den nächsten {hours}h erwartet",
       "Wahrscheinlich trocken für {hours}h",
-      "Keine Niederschläge in Kürze erwartet"
+      "Kein Regen oder Schnee bald erwartet"
     ]
   },
   "zh": {
@@ -131,7 +131,7 @@
     "no_precipitation": [
       "未来{hours}小时无雨雪预期",
       "未来{hours}小时可能干燥",
-      "短期内无降水预期"
+      "短期内无雨雪预期"
     ]
   },
   "hi": {
@@ -158,7 +158,7 @@
     "no_precipitation": [
       "अगले {hours}घंटे में बारिश या बर्फबारी की संभावना नहीं",
       "अगले {hours}घंटे शायद सूखे रहेंगे",
-      "जल्द ही कोई वर्षा की संभावना नहीं"
+      "जल्द ही बारिश या बर्फबारी की संभावना नहीं"
     ]
   },
   "ar": {
@@ -185,7 +185,7 @@
     "no_precipitation": [
       "لا أمطار أو ثلوج متوقعة في {hours}ساعة القادمة",
       "الجو جاف على الأرجح في {hours}ساعة القادمة",
-      "لا هطول متوقع قريباً"
+      "لا أمطار أو ثلوج متوقعة قريباً"
     ]
   },
   "pt": {
@@ -212,7 +212,7 @@
     "no_precipitation": [
       "Sem chuva ou neve esperada nas próximas {hours}h",
       "Provavelmente seco pelas próximas {hours}h",
-      "Sem precipitação esperada em breve"
+      "Sem chuva ou neve esperada em breve"
     ]
   },
   "ru": {
@@ -239,7 +239,7 @@
     "no_precipitation": [
       "Осадков не ожидается в ближайшие {hours}ч",
       "Вероятно, сухо в течение {hours}ч",
-      "Скоро осадков не ожидается"
+      "Скоро дождя или снега не ожидается"
     ]
   },
   "ja": {
@@ -266,7 +266,7 @@
     "no_precipitation": [
       "今後{hours}時間は雨や雪の予想はありません",
       "おそらく今後{hours}時間は乾燥しています",
-      "すぐに降水の予想はありません"
+      "すぐに雨や雪の予想はありません"
     ]
   }
 }
