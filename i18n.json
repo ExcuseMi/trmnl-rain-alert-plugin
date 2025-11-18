@@ -29,7 +29,7 @@
             "Clear skies {time_context}"
         ]
     },
-      "nl": {
+       "nl": {
     "soon": "de komende tijd",
     "hours": "uur",
     "time_context": "in de komende {hours}",
