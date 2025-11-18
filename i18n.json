@@ -1,334 +1,332 @@
 {
-  "en": {
-    "soon": "soon",
-    "hours": "hours",
-    "time_context": "in the next {hours}",
-    "rain_now_duration": [
-      "It's raining now, should last {duration} hours",
-      "Rainfall for the next {duration} hours",
-      "Raining now, continuing for {duration} hours"
-    ],
-    "snow_now_duration": [
-      "It's snowing now, should last {duration} hours",
-      "Snowfall for the next {duration} hours", 
-      "Snowing now, continuing for {duration} hours"
-    ],
-    "rain_later_duration": [
-      "Rain coming {hours} (for {duration} hours)",
-      "Expect rain {hours} (lasting {duration} hours)",
-      "Rain likely {hours} (for {duration} hours)"
-    ],
-    "snow_later_duration": [
-      "Snow coming {hours} (for {duration} hours)",
-      "Expect snow {hours} (lasting {duration} hours)",
-      "Snow likely {hours} (for {duration} hours)"
-    ],
-    "no_precipitation": [
-      "No rain expected {time_context}",
-      "Staying dry {time_context}",
-      "Clear skies {time_context}"
-    ]
-  },
-{
-  "nl": {
-    "soon": "binnenkort",
-    "hours": "uur",
-    "time_context": "in de komende {hours}",
-    "rain_now_duration": [
-      "Het regent nu, duurt nog {duration} uur",
-      "Regen voor de komende {duration} uur",
-      "Nu regen, gaat door voor {duration} uur"
-    ],
-    "snow_now_duration": [
-      "Het sneeuwt nu, duurt nog {duration} uur",
-      "Sneeuw voor de komende {duration} uur",
-      "Nu sneeuw, gaat door voor {duration} uur"
-    ],
-    "rain_later_duration": [
-      "Regen {hours} (voor {duration} uur)",
-      "Regen verwacht {hours} (duurt {duration} uur)",
-      "Waarschijnlijk regen {hours} (voor {duration} uur)"
-    ],
-    "snow_later_duration": [
-      "Sneeuw {hours} (voor {duration} uur)",
-      "Sneeuw verwacht {hours} (duurt {duration} uur)",
-      "Waarschijnlijk sneeuw {hours} (voor {duration} uur)"
-    ],
-    "no_precipitation": [
-      "Geen regen verwacht {time_context}",
-      "Droog {time_context}",
-      "Opklaringen {time_context}"
-    ]
-  }
-},
-  "es": {
-    "soon": "pronto",
-    "hours": "horas",
-    "time_context": "en las próximas {hours}",
-    "rain_now_duration": [
-      "Está lloviendo ahora, durará {duration} horas",
-      "Lluvia durante las próximas {duration} horas",
-      "Llueve ahora, continuará {duration} horas"
-    ],
-    "snow_now_duration": [
-      "Está nevando ahora, durará {duration} horas",
-      "Nieve durante las próximas {duration} horas",
-      "Nieva ahora, continuará {duration} horas"
-    ],
-    "rain_later_duration": [
-      "Lluvia {hours} (durante {duration} horas)",
-      "Espera lluvia {hours} (dura {duration} horas)",
-      "Probable lluvia {hours} (por {duration} horas)"
-    ],
-    "snow_later_duration": [
-      "Nieve {hours} (durante {duration} horas)",
-      "Espera nieve {hours} (dura {duration} horas)",
-      "Probable nieve {hours} (por {duration} horas)"
-    ],
-    "no_precipitation": [
-      "No se espera lluvia {time_context}",
-      "Permanece seco {time_context}",
-      "Cielos despejados {time_context}"
-    ]
-  },
-  "fr": {
-    "soon": "bientôt",
-    "hours": "heures",
-    "time_context": "dans les {hours} prochaines",
-    "rain_now_duration": [
-      "Il pleut maintenant, devrait durer {duration} heures",
-      "Pluie pendant {duration} heures",
-      "Il pleut, continue pendant {duration} heures"
-    ],
-    "snow_now_duration": [
-      "Il neige maintenant, devrait durer {duration} heures",
-      "Neige pendant {duration} heures",
-      "Il neige, continue pendant {duration} heures"
-    ],
-    "rain_later_duration": [
-      "Pluie {hours} (pendant {duration} heures)",
-      "Pluie attendue {hours} (dure {duration} heures)",
-      "Pluie probable {hours} (pour {duration} heures)"
-    ],
-    "snow_later_duration": [
-      "Neige {hours} (pendant {duration} heures)",
-      "Neige attendue {hours} (dure {duration} heures)",
-      "Neige probable {hours} (pour {duration} heures)"
-    ],
-    "no_precipitation": [
-      "Pas de pluie {time_context}",
-      "Reste sec {time_context}",
-      "Ciel dégagé {time_context}"
-    ]
-  },
-  "de": {
-    "soon": "bald",
-    "hours": "Stunden",
-    "time_context": "in den nächsten {hours}",
-    "rain_now_duration": [
-      "Es regnet jetzt, dauert {duration} Stunden",
-      "Regen für {duration} Stunden",
-      "Regnet jetzt, weiter {duration} Stunden"
-    ],
-    "snow_now_duration": [
-      "Es schneit jetzt, dauert {duration} Stunden",
-      "Schnee für {duration} Stunden",
-      "Schneit jetzt, weiter {duration} Stunden"
-    ],
-    "rain_later_duration": [
-      "Regen {hours} (für {duration} Stunden)",
-      "Regen erwartet {hours} (dauert {duration} Stunden)",
-      "Wahrscheinlich Regen {hours} (für {duration} Stunden)"
-    ],
-    "snow_later_duration": [
-      "Schnee {hours} (für {duration} Stunden)",
-      "Schnee erwartet {hours} (dauert {duration} Stunden)",
-      "Wahrscheinlich Schnee {hours} (für {duration} Stunden)"
-    ],
-    "no_precipitation": [
-      "Kein Regen {time_context}",
-      "Bleibt trocken {time_context}",
-      "Klarer Himmel {time_context}"
-    ]
-  },
-  "zh": {
-    "soon": "很快",
-    "hours": "小时",
-    "time_context": "未来{hours}内",
-    "rain_now_duration": [
-      "正在下雨，将持续{duration}小时",
-      "降雨{duration}小时",
-      "现在下雨，持续{duration}小时"
-    ],
-    "snow_now_duration": [
-      "正在下雪，将持续{duration}小时",
-      "降雪{duration}小时",
-      "现在下雪，持续{duration}小时"
-    ],
-    "rain_later_duration": [
-      "{hours}有雨 (持续{duration}小时)",
-      "预计{hours}有雨 (持续{duration}小时)",
-      "可能{hours}下雨 (持续{duration}小时)"
-    ],
-    "snow_later_duration": [
-      "{hours}有雪 (持续{duration}小时)",
-      "预计{hours}有雪 (持续{duration}小时)",
-      "可能{hours}下雪 (持续{duration}小时)"
-    ],
-    "no_precipitation": [
-      "{time_context}无雨",
-      "{time_context}保持干燥",
-      "{time_context}晴朗"
-    ]
-  },
-  "hi": {
-    "soon": "जल्दी",
-    "hours": "घंटे",
-    "time_context": "अगले {hours} में",
-    "rain_now_duration": [
-      "अभी बारिश हो रही है, {duration} घंटे तक रहेगी",
-      "अगले {duration} घंटे बारिश",
-      "अभी बारिश, {duration} घंटे तक जारी"
-    ],
-    "snow_now_duration": [
-      "अभी बर्फबारी हो रही है, {duration} घंटे तक रहेगी",
-      "अगले {duration} घंटे बर्फबारी",
-      "अभी बर्फबारी, {duration} घंटे तक जारी"
-    ],
-    "rain_later_duration": [
-      "{hours} बारिश ({duration} घंटे तक)",
-      "{hours} बारिश की उम्मीद ({duration} घंटे)",
-      "शायद {hours} बारिश ({duration} घंटे)"
-    ],
-    "snow_later_duration": [
-      "{hours} बर्फबारी ({duration} घंटे तक)",
-      "{hours} बर्फबारी की उम्मीद ({duration} घंटे)",
-      "शायद {hours} बर्फबारी ({duration} घंटे)"
-    ],
-    "no_precipitation": [
-      "{time_context} बारिश नहीं",
-      "{time_context} सूखा रहेगा",
-      "{time_context} साफ आसमान"
-    ]
-  },
-  "ar": {
-    "soon": "قريباً",
-    "hours": "ساعات",
-    "time_context": "في {hours} القادمة",
-    "rain_now_duration": [
-      "تمطر الآن، ستستمر {duration} ساعات",
-      "أمطار لمدة {duration} ساعات",
-      "تمطر الآن، تستمر {duration} ساعات"
-    ],
-    "snow_now_duration": [
-      "تثلج الآن، ستستمر {duration} ساعات",
-      "ثلوج لمدة {duration} ساعات",
-      "تثلج الآن، تستمر {duration} ساعات"
-    ],
-    "rain_later_duration": [
-      "أمطار {hours} (لمدة {duration} ساعات)",
-      "أمطار متوقعة {hours} (تستمر {duration} ساعات)",
-      "أمطار محتملة {hours} (لمدة {duration} ساعات)"
-    ],
-    "snow_later_duration": [
-      "ثلوج {hours} (لمدة {duration} ساعات)",
-      "ثلوج متوقعة {hours} (تستمر {duration} ساعات)",
-      "ثلوج محتملة {hours} (لمدة {duration} ساعات)"
-    ],
-    "no_precipitation": [
-      "لا أمطار {time_context}",
-      "يبقى جافاً {time_context}",
-      "سماء صافية {time_context}"
-    ]
-  },
-  "pt": {
-    "soon": "em breve",
-    "hours": "horas",
-    "time_context": "nas próximas {hours}",
-    "rain_now_duration": [
-      "Está chovendo agora, deve durar {duration} horas",
-      "Chuva por {duration} horas",
-      "Chovendo agora, continua por {duration} horas"
-    ],
-    "snow_now_duration": [
-      "Está nevando agora, deve durar {duration} horas",
-      "Neve por {duration} horas",
-      "Nevando agora, continua por {duration} horas"
-    ],
-    "rain_later_duration": [
-      "Chuva {hours} (por {duration} horas)",
-      "Chuva esperada {hours} (dura {duration} horas)",
-      "Chuva provável {hours} (por {duration} horas)"
-    ],
-    "snow_later_duration": [
-      "Neve {hours} (por {duration} horas)",
-      "Neve esperada {hours} (dura {duration} horas)",
-      "Neve provável {hours} (por {duration} horas)"
-    ],
-    "no_precipitation": [
-      "Sem chuva {time_context}",
-      "Permanece seco {time_context}",
-      "Céu limpo {time_context}"
-    ]
-  },
-  "ru": {
-    "soon": "скоро",
-    "hours": "часов",
-    "time_context": "в следующие {hours}",
-    "rain_now_duration": [
-      "Сейчас идет дождь, продлится {duration} часов",
-      "Дождь в течение {duration} часов",
-      "Дождь сейчас, продолжается {duration} часов"
-    ],
-    "snow_now_duration": [
-      "Сейчас идет снег, продлится {duration} часов",
-      "Снег в течение {duration} часов",
-      "Снег сейчас, продолжается {duration} часов"
-    ],
-    "rain_later_duration": [
-      "Дождь {hours} (на {duration} часов)",
-      "Ожидается дождь {hours} (продлится {duration} часов)",
-      "Вероятен дождь {hours} (на {duration} часов)"
-    ],
-    "snow_later_duration": [
-      "Снег {hours} (на {duration} часов)",
-      "Ожидается снег {hours} (продлится {duration} часов)",
-      "Вероятен снег {hours} (на {duration} часов)"
-    ],
-    "no_precipitation": [
-      "Без дождя {time_context}",
-      "Остается сухо {time_context}",
-      "Ясное небо {time_context}"
-    ]
-  },
-  "ja": {
-    "soon": "すぐに",
-    "hours": "時間",
-    "time_context": "今後{hours}の間",
-    "rain_now_duration": [
-      "現在雨が降っています、{duration}時間続きます",
-      "{duration}時間の降雨",
-      "現在降雨中、{duration}時間続きます"
-    ],
-    "snow_now_duration": [
-      "現在雪が降っています、{duration}時間続きます",
-      "{duration}時間の降雪",
-      "現在降雪中、{duration}時間続きます"
-    ],
-    "rain_later_duration": [
-      "{hours}に雨 ({duration}時間続く)",
-      "{hours}に雨の予定 ({duration}時間)",
-      "{hours}に雨が降るかも ({duration}時間)"
-    ],
-    "snow_later_duration": [
-      "{hours}に雪 ({duration}時間続く)",
-      "{hours}に雪の予定 ({duration}時間)",
-      "{hours}に雪が降るかも ({duration}時間)"
-    ],
-    "no_precipitation": [
-      "{time_context}雨の予想なし",
-      "{time_context}乾燥が続く",
-      "{time_context}晴れ"
-    ]
-  }
+    "en": {
+        "soon": "soon",
+        "hours": "hours",
+        "time_context": "in the next {hours}",
+        "rain_now_duration": [
+            "It's raining now, should last {duration} hours",
+            "Rainfall for the next {duration} hours",
+            "Raining now, continuing for {duration} hours"
+        ],
+        "snow_now_duration": [
+            "It's snowing now, should last {duration} hours",
+            "Snowfall for the next {duration} hours",
+            "Snowing now, continuing for {duration} hours"
+        ],
+        "rain_later_duration": [
+            "Rain coming {hours} (for {duration} hours)",
+            "Expect rain {hours} (lasting {duration} hours)",
+            "Rain likely {hours} (for {duration} hours)"
+        ],
+        "snow_later_duration": [
+            "Snow coming {hours} (for {duration} hours)",
+            "Expect snow {hours} (lasting {duration} hours)",
+            "Snow likely {hours} (for {duration} hours)"
+        ],
+        "no_precipitation": [
+            "No rain expected {time_context}",
+            "Staying dry {time_context}",
+            "Clear skies {time_context}"
+        ]
+    },
+    "nl": {
+        "soon": "binnenkort",
+        "hours": "uur",
+        "time_context": "in de komende {hours}",
+        "rain_now_duration": [
+            "Het regent nu, duurt nog {duration} uur",
+            "Regen voor de komende {duration} uur",
+            "Nu regen, gaat door voor {duration} uur"
+        ],
+        "snow_now_duration": [
+            "Het sneeuwt nu, duurt nog {duration} uur",
+            "Sneeuw voor de komende {duration} uur",
+            "Nu sneeuw, gaat door voor {duration} uur"
+        ],
+        "rain_later_duration": [
+            "Regen {hours} (voor {duration} uur)",
+            "Regen verwacht {hours} (duurt {duration} uur)",
+            "Waarschijnlijk regen {hours} (voor {duration} uur)"
+        ],
+        "snow_later_duration": [
+            "Sneeuw {hours} (voor {duration} uur)",
+            "Sneeuw verwacht {hours} (duurt {duration} uur)",
+            "Waarschijnlijk sneeuw {hours} (voor {duration} uur)"
+        ],
+        "no_precipitation": [
+            "Geen regen verwacht {time_context}",
+            "Droog {time_context}",
+            "Opklaringen {time_context}"
+        ]
+    },
+    "es": {
+        "soon": "pronto",
+        "hours": "horas",
+        "time_context": "en las próximas {hours}",
+        "rain_now_duration": [
+            "Está lloviendo ahora, durará {duration} horas",
+            "Lluvia durante las próximas {duration} horas",
+            "Llueve ahora, continuará {duration} horas"
+        ],
+        "snow_now_duration": [
+            "Está nevando ahora, durará {duration} horas",
+            "Nieve durante las próximas {duration} horas",
+            "Nieva ahora, continuará {duration} horas"
+        ],
+        "rain_later_duration": [
+            "Lluvia {hours} (durante {duration} horas)",
+            "Espera lluvia {hours} (dura {duration} horas)",
+            "Probable lluvia {hours} (por {duration} horas)"
+        ],
+        "snow_later_duration": [
+            "Nieve {hours} (durante {duration} horas)",
+            "Espera nieve {hours} (dura {duration} horas)",
+            "Probable nieve {hours} (por {duration} horas)"
+        ],
+        "no_precipitation": [
+            "No se espera lluvia {time_context}",
+            "Permanece seco {time_context}",
+            "Cielos despejados {time_context}"
+        ]
+    },
+    "fr": {
+        "soon": "bientôt",
+        "hours": "heures",
+        "time_context": "dans les {hours} prochaines",
+        "rain_now_duration": [
+            "Il pleut maintenant, devrait durer {duration} heures",
+            "Pluie pendant {duration} heures",
+            "Il pleut, continue pendant {duration} heures"
+        ],
+        "snow_now_duration": [
+            "Il neige maintenant, devrait durer {duration} heures",
+            "Neige pendant {duration} heures",
+            "Il neige, continue pendant {duration} heures"
+        ],
+        "rain_later_duration": [
+            "Pluie {hours} (pendant {duration} heures)",
+            "Pluie attendue {hours} (dure {duration} heures)",
+            "Pluie probable {hours} (pour {duration} heures)"
+        ],
+        "snow_later_duration": [
+            "Neige {hours} (pendant {duration} heures)",
+            "Neige attendue {hours} (dure {duration} heures)",
+            "Neige probable {hours} (pour {duration} heures)"
+        ],
+        "no_precipitation": [
+            "Pas de pluie {time_context}",
+            "Reste sec {time_context}",
+            "Ciel dégagé {time_context}"
+        ]
+    },
+    "de": {
+        "soon": "bald",
+        "hours": "Stunden",
+        "time_context": "in den nächsten {hours}",
+        "rain_now_duration": [
+            "Es regnet jetzt, dauert {duration} Stunden",
+            "Regen für {duration} Stunden",
+            "Regnet jetzt, weiter {duration} Stunden"
+        ],
+        "snow_now_duration": [
+            "Es schneit jetzt, dauert {duration} Stunden",
+            "Schnee für {duration} Stunden",
+            "Schneit jetzt, weiter {duration} Stunden"
+        ],
+        "rain_later_duration": [
+            "Regen {hours} (für {duration} Stunden)",
+            "Regen erwartet {hours} (dauert {duration} Stunden)",
+            "Wahrscheinlich Regen {hours} (für {duration} Stunden)"
+        ],
+        "snow_later_duration": [
+            "Schnee {hours} (für {duration} Stunden)",
+            "Schnee erwartet {hours} (dauert {duration} Stunden)",
+            "Wahrscheinlich Schnee {hours} (für {duration} Stunden)"
+        ],
+        "no_precipitation": [
+            "Kein Regen {time_context}",
+            "Bleibt trocken {time_context}",
+            "Klarer Himmel {time_context}"
+        ]
+    },
+    "zh": {
+        "soon": "很快",
+        "hours": "小时",
+        "time_context": "未来{hours}内",
+        "rain_now_duration": [
+            "正在下雨，将持续{duration}小时",
+            "降雨{duration}小时",
+            "现在下雨，持续{duration}小时"
+        ],
+        "snow_now_duration": [
+            "正在下雪，将持续{duration}小时",
+            "降雪{duration}小时",
+            "现在下雪，持续{duration}小时"
+        ],
+        "rain_later_duration": [
+            "{hours}有雨 (持续{duration}小时)",
+            "预计{hours}有雨 (持续{duration}小时)",
+            "可能{hours}下雨 (持续{duration}小时)"
+        ],
+        "snow_later_duration": [
+            "{hours}有雪 (持续{duration}小时)",
+            "预计{hours}有雪 (持续{duration}小时)",
+            "可能{hours}下雪 (持续{duration}小时)"
+        ],
+        "no_precipitation": [
+            "{time_context}无雨",
+            "{time_context}保持干燥",
+            "{time_context}晴朗"
+        ]
+    },
+    "hi": {
+        "soon": "जल्दी",
+        "hours": "घंटे",
+        "time_context": "अगले {hours} में",
+        "rain_now_duration": [
+            "अभी बारिश हो रही है, {duration} घंटे तक रहेगी",
+            "अगले {duration} घंटे बारिश",
+            "अभी बारिश, {duration} घंटे तक जारी"
+        ],
+        "snow_now_duration": [
+            "अभी बर्फबारी हो रही है, {duration} घंटे तक रहेगी",
+            "अगले {duration} घंटे बर्फबारी",
+            "अभी बर्फबारी, {duration} घंटे तक जारी"
+        ],
+        "rain_later_duration": [
+            "{hours} बारिश ({duration} घंटे तक)",
+            "{hours} बारिश की उम्मीद ({duration} घंटे)",
+            "शायद {hours} बारिश ({duration} घंटे)"
+        ],
+        "snow_later_duration": [
+            "{hours} बर्फबारी ({duration} घंटे तक)",
+            "{hours} बर्फबारी की उम्मीद ({duration} घंटे)",
+            "शायद {hours} बर्फबारी ({duration} घंटे)"
+        ],
+        "no_precipitation": [
+            "{time_context} बारिश नहीं",
+            "{time_context} सूखा रहेगा",
+            "{time_context} साफ आसमान"
+        ]
+    },
+    "ar": {
+        "soon": "قريباً",
+        "hours": "ساعات",
+        "time_context": "في {hours} القادمة",
+        "rain_now_duration": [
+            "تمطر الآن، ستستمر {duration} ساعات",
+            "أمطار لمدة {duration} ساعات",
+            "تمطر الآن، تستمر {duration} ساعات"
+        ],
+        "snow_now_duration": [
+            "تثلج الآن، ستستمر {duration} ساعات",
+            "ثلوج لمدة {duration} ساعات",
+            "تثلج الآن، تستمر {duration} ساعات"
+        ],
+        "rain_later_duration": [
+            "أمطار {hours} (لمدة {duration} ساعات)",
+            "أمطار متوقعة {hours} (تستمر {duration} ساعات)",
+            "أمطار محتملة {hours} (لمدة {duration} ساعات)"
+        ],
+        "snow_later_duration": [
+            "ثلوج {hours} (لمدة {duration} ساعات)",
+            "ثلوج متوقعة {hours} (تستمر {duration} ساعات)",
+            "ثلوج محتملة {hours} (لمدة {duration} ساعات)"
+        ],
+        "no_precipitation": [
+            "لا أمطار {time_context}",
+            "يبقى جافاً {time_context}",
+            "سماء صافية {time_context}"
+        ]
+    },
+    "pt": {
+        "soon": "em breve",
+        "hours": "horas",
+        "time_context": "nas próximas {hours}",
+        "rain_now_duration": [
+            "Está chovendo agora, deve durar {duration} horas",
+            "Chuva por {duration} horas",
+            "Chovendo agora, continua por {duration} horas"
+        ],
+        "snow_now_duration": [
+            "Está nevando agora, deve durar {duration} horas",
+            "Neve por {duration} horas",
+            "Nevando agora, continua por {duration} horas"
+        ],
+        "rain_later_duration": [
+            "Chuva {hours} (por {duration} horas)",
+            "Chuva esperada {hours} (dura {duration} horas)",
+            "Chuva provável {hours} (por {duration} horas)"
+        ],
+        "snow_later_duration": [
+            "Neve {hours} (por {duration} horas)",
+            "Neve esperada {hours} (dura {duration} horas)",
+            "Neve provável {hours} (por {duration} horas)"
+        ],
+        "no_precipitation": [
+            "Sem chuva {time_context}",
+            "Permanece seco {time_context}",
+            "Céu limpo {time_context}"
+        ]
+    },
+    "ru": {
+        "soon": "скоро",
+        "hours": "часов",
+        "time_context": "в следующие {hours}",
+        "rain_now_duration": [
+            "Сейчас идет дождь, продлится {duration} часов",
+            "Дождь в течение {duration} часов",
+            "Дождь сейчас, продолжается {duration} часов"
+        ],
+        "snow_now_duration": [
+            "Сейчас идет снег, продлится {duration} часов",
+            "Снег в течение {duration} часов",
+            "Снег сейчас, продолжается {duration} часов"
+        ],
+        "rain_later_duration": [
+            "Дождь {hours} (на {duration} часов)",
+            "Ожидается дождь {hours} (продлится {duration} часов)",
+            "Вероятен дождь {hours} (на {duration} часов)"
+        ],
+        "snow_later_duration": [
+            "Снег {hours} (на {duration} часов)",
+            "Ожидается снег {hours} (продлится {duration} часов)",
+            "Вероятен снег {hours} (на {duration} часов)"
+        ],
+        "no_precipitation": [
+            "Без дождя {time_context}",
+            "Остается сухо {time_context}",
+            "Ясное небо {time_context}"
+        ]
+    },
+    "ja": {
+        "soon": "すぐに",
+        "hours": "時間",
+        "time_context": "今後{hours}の間",
+        "rain_now_duration": [
+            "現在雨が降っています、{duration}時間続きます",
+            "{duration}時間の降雨",
+            "現在降雨中、{duration}時間続きます"
+        ],
+        "snow_now_duration": [
+            "現在雪が降っています、{duration}時間続きます",
+            "{duration}時間の降雪",
+            "現在降雪中、{duration}時間続きます"
+        ],
+        "rain_later_duration": [
+            "{hours}に雨 ({duration}時間続く)",
+            "{hours}に雨の予定 ({duration}時間)",
+            "{hours}に雨が降るかも ({duration}時間)"
+        ],
+        "snow_later_duration": [
+            "{hours}に雪 ({duration}時間続く)",
+            "{hours}に雪の予定 ({duration}時間)",
+            "{hours}に雪が降るかも ({duration}時間)"
+        ],
+        "no_precipitation": [
+            "{time_context}雨の予想なし",
+            "{time_context}乾燥が続く",
+            "{time_context}晴れ"
+        ]
+    }
 }
