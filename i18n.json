@@ -25,8 +25,38 @@
     ],
     "no_precipitation": [
       "No rain expected {time_context}",
-      "Looks dry {time_context}",
+      "Staying dry {time_context}",
       "Clear skies {time_context}"
+    ]
+  },
+  "nl": {
+    "soon": "binnenkort",
+    "hours": "uur",
+    "time_context": "in de komende {hours}",
+    "rain_now_duration": [
+      "Het regent nu, duurt nog {duration} uur",
+      "Regen voor de komende {duration} uur",
+      "Nu regen, gaat door voor {duration} uur"
+    ],
+    "snow_now_duration": [
+      "Het sneeuwt nu, duurt nog {duration} uur",
+      "Sneeuw voor de komende {duration} uur",
+      "Nu sneeuw, gaat door voor {duration} uur"
+    ],
+    "rain_later_duration": [
+      "Regen {hours} (voor {duration} uur)",
+      "Regen verwacht {hours} (duurt {duration} uur)",
+      "Waarschijnlijk regen {hours} (voor {duration} uur)"
+    ],
+    "snow_later_duration": [
+      "Sneeuw {hours} (voor {duration} uur)",
+      "Sneeuw verwacht {hours} (duurt {duration} uur)",
+      "Waarschijnlijk sneeuw {hours} (voor {duration} uur)"
+    ],
+    "no_precipitation": [
+      "Geen regen verwacht {time_context}",
+      "Blijft droog {time_context}",
+      "Heldere lucht {time_context}"
     ]
   },
   "es": {
@@ -55,7 +85,7 @@
     ],
     "no_precipitation": [
       "No se espera lluvia {time_context}",
-      "Parece seco {time_context}",
+      "Permanece seco {time_context}",
       "Cielos despejados {time_context}"
     ]
   },
@@ -66,12 +96,12 @@
     "rain_now_duration": [
       "Il pleut maintenant, devrait durer {duration} heures",
       "Pluie pendant {duration} heures",
-      "Il pleut, continue pendant {duration} horas"
+      "Il pleut, continue pendant {duration} heures"
     ],
     "snow_now_duration": [
       "Il neige maintenant, devrait durer {duration} heures",
       "Neige pendant {duration} heures",
-      "Il neige, continue pendant {duration} horas"
+      "Il neige, continue pendant {duration} heures"
     ],
     "rain_later_duration": [
       "Pluie {hours} (pendant {duration} heures)",
@@ -85,7 +115,7 @@
     ],
     "no_precipitation": [
       "Pas de pluie {time_context}",
-      "Sec {time_context}",
+      "Reste sec {time_context}",
       "Ciel dégagé {time_context}"
     ]
   },
@@ -115,7 +145,7 @@
     ],
     "no_precipitation": [
       "Kein Regen {time_context}",
-      "Trocken {time_context}",
+      "Bleibt trocken {time_context}",
       "Klarer Himmel {time_context}"
     ]
   },
@@ -145,7 +175,7 @@
     ],
     "no_precipitation": [
       "{time_context}无雨",
-      "{time_context}天气干燥",
+      "{time_context}保持干燥",
       "{time_context}晴朗"
     ]
   },
@@ -205,7 +235,7 @@
     ],
     "no_precipitation": [
       "لا أمطار {time_context}",
-      "جو جاف {time_context}",
+      "يبقى جافاً {time_context}",
       "سماء صافية {time_context}"
     ]
   },
@@ -235,7 +265,7 @@
     ],
     "no_precipitation": [
       "Sem chuva {time_context}",
-      "Seco {time_context}",
+      "Permanece seco {time_context}",
       "Céu limpo {time_context}"
     ]
   },
@@ -265,7 +295,7 @@
     ],
     "no_precipitation": [
       "Без дождя {time_context}",
-      "Сухо {time_context}",
+      "Остается сухо {time_context}",
       "Ясное небо {time_context}"
     ]
   },
@@ -295,7 +325,7 @@
     ],
     "no_precipitation": [
       "{time_context}雨の予想なし",
-      "{time_context}乾燥",
+      "{time_context}乾燥が続く",
       "{time_context}晴れ"
     ]
   }
