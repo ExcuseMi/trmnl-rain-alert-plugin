@@ -42,5 +42,181 @@
       "{hours}h hasta la nieve ({duration}h)", 
       "Nieve en {hours}h ({duration}h)"
     ]
+  },
+  "fr": {
+    "rain_now_duration": [
+      "Il pleut actuellement ({duration}h)",
+      "Pluie en cours ({duration}h)",
+      "Précipitations ({duration}h)"
+    ],
+    "snow_now_duration": [
+      "Il neige actuellement ({duration}h)",
+      "Chute de neige ({duration}h)",
+      "Neige en cours ({duration}h)"
+    ],
+    "rain_later_duration": [
+      "Pluie dans {hours}h ({duration}h)",
+      "{hours}h avant la pluie ({duration}h)",
+      "Pluie prévue dans {hours}h ({duration}h)"
+    ],
+    "snow_later_duration": [
+      "Neige dans {hours}h ({duration}h)",
+      "{hours}h avant la neige ({duration}h)",
+      "Neige prévue dans {hours}h ({duration}h)"
+    ]
+  },
+  "de": {
+    "rain_now_duration": [
+      "Es regnet jetzt ({duration}h)",
+      "Regen dauert an ({duration}h)",
+      "Aktuell regnet es ({duration}h)"
+    ],
+    "snow_now_duration": [
+      "Es schneit jetzt ({duration}h)",
+      "Schneefall dauert an ({duration}h)",
+      "Aktuell schneit es ({duration}h)"
+    ],
+    "rain_later_duration": [
+      "Regen in {hours}h ({duration}h)",
+      "{hours}h bis zum Regen ({duration}h)",
+      "Regen in {hours}h ({duration}h)"
+    ],
+    "snow_later_duration": [
+      "Schnee in {hours}h ({duration}h)",
+      "{hours}h bis zum Schnee ({duration}h)",
+      "Schnee in {hours}h ({duration}h)"
+    ]
+  },
+  "zh": {
+    "rain_now_duration": [
+      "正在下雨 ({duration}小时)",
+      "持续降雨 ({duration}小时)",
+      "目前有雨 ({duration}小时)"
+    ],
+    "snow_now_duration": [
+      "正在下雪 ({duration}小时)",
+      "持续降雪 ({duration}小时)",
+      "目前有雪 ({duration}小时)"
+    ],
+    "rain_later_duration": [
+      "{hours}小时后有雨 ({duration}小时)",
+      "{hours}小时内有雨 ({duration}小时)",
+      "预计{hours}小时后下雨 ({duration}小时)"
+    ],
+    "snow_later_duration": [
+      "{hours}小时后有雪 ({duration}小时)",
+      "{hours}小时内有雪 ({duration}小时)",
+      "预计{hours}小时后下雪 ({duration}小时)"
+    ]
+  },
+  "hi": {
+    "rain_now_duration": [
+      "अभी बारिश हो रही है ({duration}घंटे)",
+      "बारिश जारी है ({duration}घंटे)",
+      "वर्तमान में बारिश ({duration}घंटे)"
+    ],
+    "snow_now_duration": [
+      "अभी बर्फबारी हो रही है ({duration}घंटे)",
+      "बर्फबारी जारी है ({duration}घंटे)",
+      "वर्तमान में बर्फबारी ({duration}घंटे)"
+    ],
+    "rain_later_duration": [
+      "{hours}घंटे में बारिश ({duration}घंटे)",
+      "बारिश {hours}घंटे में ({duration}घंटे)",
+      "{hours}घंटे बाद बारिश ({duration}घंटे)"
+    ],
+    "snow_later_duration": [
+      "{hours}घंटे में बर्फबारी ({duration}घंटे)",
+      "बर्फबारी {hours}घंटे में ({duration}घंटे)",
+      "{hours}घंटे बाद बर्फबारी ({duration}घंटे)"
+    ]
+  },
+  "ar": {
+    "rain_now_duration": [
+      "تمطر الآن ({duration}ساعة)",
+      "أمطار مستمرة ({duration}ساعة)",
+      "تهطل أمطار حالياً ({duration}ساعة)"
+    ],
+    "snow_now_duration": [
+      "تثلج الآن ({duration}ساعة)",
+      "ثلوج مستمرة ({duration}ساعة)",
+      "تهطل ثلوج حالياً ({duration}ساعة)"
+    ],
+    "rain_later_duration": [
+      "أمطار بعد {hours}ساعة ({duration}ساعة)",
+      "بعد {hours}ساعة ستمطر ({duration}ساعة)",
+      "أمطار متوقعة بعد {hours}ساعة ({duration}ساعة)"
+    ],
+    "snow_later_duration": [
+      "ثلوج بعد {hours}ساعة ({duration}ساعة)",
+      "بعد {hours}ساعة ستثلج ({duration}ساعة)",
+      "ثلوج متوقعة بعد {hours}ساعة ({duration}ساعة)"
+    ]
+  },
+  "pt": {
+    "rain_now_duration": [
+      "Está chovendo agora ({duration}h)",
+      "Chuva contínua ({duration}h)",
+      "Chovendo atualmente ({duration}h)"
+    ],
+    "snow_now_duration": [
+      "Está nevando agora ({duration}h)",
+      "Neve contínua ({duration}h)",
+      "Nevando atualmente ({duration}h)"
+    ],
+    "rain_later_duration": [
+      "Chuva em {hours}h ({duration}h)",
+      "{hours}h até chover ({duration}h)",
+      "Chuva em {hours}h ({duration}h)"
+    ],
+    "snow_later_duration": [
+      "Neve em {hours}h ({duration}h)",
+      "{hours}h até nevar ({duration}h)",
+      "Neve em {hours}h ({duration}h)"
+    ]
+  },
+  "ru": {
+    "rain_now_duration": [
+      "Сейчас идет дождь ({duration}ч)",
+      "Дождь продолжается ({duration}ч)",
+      "В настоящее время дождь ({duration}ч)"
+    ],
+    "snow_now_duration": [
+      "Сейчас идет снег ({duration}ч)",
+      "Снегопад продолжается ({duration}ч)",
+      "В настоящее время снег ({duration}ч)"
+    ],
+    "rain_later_duration": [
+      "Дождь через {hours}ч ({duration}ч)",
+      "Через {hours}ч дождь ({duration}ч)",
+      "Дождь через {hours}ч ({duration}ч)"
+    ],
+    "snow_later_duration": [
+      "Снег через {hours}ч ({duration}ч)",
+      "Через {hours}ч снег ({duration}ч)",
+      "Снег через {hours}ч ({duration}ч)"
+    ]
+  },
+  "ja": {
+    "rain_now_duration": [
+      "現在雨が降っています ({duration}時間)",
+      "降雨が続いています ({duration}時間)",
+      "現在降雨中 ({duration}時間)"
+    ],
+    "snow_now_duration": [
+      "現在雪が降っています ({duration}時間)",
+      "降雪が続いています ({duration}時間)",
+      "現在降雪中 ({duration}時間)"
+    ],
+    "rain_later_duration": [
+      "{hours}時間後に雨 ({duration}時間)",
+      "雨まで{hours}時間 ({duration}時間)",
+      "{hours}時間後に降雨予定 ({duration}時間)"
+    ],
+    "snow_later_duration": [
+      "{hours}時間後に雪 ({duration}時間)",
+      "雪まで{hours}時間 ({duration}時間)",
+      "{hours}時間後に降雪予定 ({duration}時間)"
+    ]
   }
 }
