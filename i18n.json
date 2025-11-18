@@ -19,6 +19,11 @@
       "Snow in {hours}h ({duration}h)",
       "{hours}h until snow ({duration}h)",
       "Snow coming in {hours}h ({duration}h)"
+    ],
+    "no_precipitation": [
+      "No rain or snow in the next {hours}h",
+      "Dry for the next {hours} hours",
+      "No precipitation expected in {hours}h"
     ]
   },
   "es": {
@@ -41,6 +46,11 @@
       "Nieve en {hours}h ({duration}h)",
       "{hours}h hasta la nieve ({duration}h)", 
       "Nieve en {hours}h ({duration}h)"
+    ],
+    "no_precipitation": [
+      "Sin lluvia ni nieve en las próximas {hours}h",
+      "Seco durante las próximas {hours} horas",
+      "No se esperan precipitaciones en {hours}h"
     ]
   },
   "fr": {
@@ -63,6 +73,11 @@
       "Neige dans {hours}h ({duration}h)",
       "{hours}h avant la neige ({duration}h)",
       "Neige prévue dans {hours}h ({duration}h)"
+    ],
+    "no_precipitation": [
+      "Pas de pluie ni de neige dans les {hours}h",
+      "Sec pendant les {hours} prochaines heures",
+      "Aucune précipitation prévue dans {hours}h"
     ]
   },
   "de": {
@@ -85,6 +100,11 @@
       "Schnee in {hours}h ({duration}h)",
       "{hours}h bis zum Schnee ({duration}h)",
       "Schnee in {hours}h ({duration}h)"
+    ],
+    "no_precipitation": [
+      "Kein Regen oder Schnee in den nächsten {hours}h",
+      "Trocken für die nächsten {hours} Stunden",
+      "Keine Niederschläge in {hours}h erwartet"
     ]
   },
   "zh": {
@@ -107,6 +127,11 @@
       "{hours}小时后有雪 ({duration}小时)",
       "{hours}小时内有雪 ({duration}小时)",
       "预计{hours}小时后下雪 ({duration}小时)"
+    ],
+    "no_precipitation": [
+      "未来{hours}小时无雨雪",
+      "未来{hours}小时干燥",
+      "{hours}小时内无降水预期"
     ]
   },
   "hi": {
@@ -129,6 +154,11 @@
       "{hours}घंटे में बर्फबारी ({duration}घंटे)",
       "बर्फबारी {hours}घंटे में ({duration}घंटे)",
       "{hours}घंटे बाद बर्फबारी ({duration}घंटे)"
+    ],
+    "no_precipitation": [
+      "अगले {hours}घंटे में कोई बारिश या बर्फबारी नहीं",
+      "अगले {hours} घंटे सूखे रहेंगे",
+      "{hours}घंटे में कोई वर्षा की संभावना नहीं"
     ]
   },
   "ar": {
@@ -151,6 +181,11 @@
       "ثلوج بعد {hours}ساعة ({duration}ساعة)",
       "بعد {hours}ساعة ستثلج ({duration}ساعة)",
       "ثلوج متوقعة بعد {hours}ساعة ({duration}ساعة)"
+    ],
+    "no_precipitation": [
+      "لا أمطار أو ثلوج في الساعات {hours} القادمة",
+      "جو جاف للساعات {hours} القادمة",
+      "لا هطول متوقع في {hours} ساعة"
     ]
   },
   "pt": {
@@ -173,6 +208,11 @@
       "Neve em {hours}h ({duration}h)",
       "{hours}h até nevar ({duration}h)",
       "Neve em {hours}h ({duration}h)"
+    ],
+    "no_precipitation": [
+      "Sem chuva ou neve nas próximas {hours}h",
+      "Seco pelas próximas {hours} horas",
+      "Sem precipitação nas próximas {hours}h"
     ]
   },
   "ru": {
@@ -195,6 +235,11 @@
       "Снег через {hours}ч ({duration}ч)",
       "Через {hours}ч снег ({duration}ч)",
       "Снег через {hours}ч ({duration}ч)"
+    ],
+    "no_precipitation": [
+      "Без дождя и снега в ближайшие {hours}ч",
+      "Сухо в течение следующих {hours} часов",
+      "Осадков не ожидается в ближайшие {hours}ч"
     ]
   },
   "ja": {
@@ -217,6 +262,11 @@
       "{hours}時間後に雪 ({duration}時間)",
       "雪まで{hours}時間 ({duration}時間)",
       "{hours}時間後に降雪予定 ({duration}時間)"
+    ],
+    "no_precipitation": [
+      "今後{hours}時間は雨や雪はありません",
+      "今後{hours}時間は乾燥しています",
+      "{hours}時間以内に降水の予想はありません"
     ]
   }
 }
