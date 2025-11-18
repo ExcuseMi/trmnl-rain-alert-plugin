@@ -24,7 +24,7 @@
       "Snow likely {hours} (for {duration} hours)"
     ],
     "no_precipitation": [
-      "No rain or snow expected {time_context}",
+      "No rain expected {time_context}",
       "Looks dry {time_context}",
       "Clear skies {time_context}"
     ]
@@ -54,7 +54,7 @@
       "Probable nieve {hours} (por {duration} horas)"
     ],
     "no_precipitation": [
-      "No se espera lluvia ni nieve {time_context}",
+      "No se espera lluvia {time_context}",
       "Parece seco {time_context}",
       "Cielos despejados {time_context}"
     ]
@@ -66,12 +66,12 @@
     "rain_now_duration": [
       "Il pleut maintenant, devrait durer {duration} heures",
       "Pluie pendant {duration} heures",
-      "Il pleut, continue pendant {duration} heures"
+      "Il pleut, continue pendant {duration} horas"
     ],
     "snow_now_duration": [
       "Il neige maintenant, devrait durer {duration} heures",
       "Neige pendant {duration} heures",
-      "Il neige, continue pendant {duration} heures"
+      "Il neige, continue pendant {duration} horas"
     ],
     "rain_later_duration": [
       "Pluie {hours} (pendant {duration} heures)",
@@ -84,7 +84,7 @@
       "Neige probable {hours} (pour {duration} heures)"
     ],
     "no_precipitation": [
-      "Pas de pluie ni neige {time_context}",
+      "Pas de pluie {time_context}",
       "Sec {time_context}",
       "Ciel dégagé {time_context}"
     ]
@@ -114,7 +114,7 @@
       "Wahrscheinlich Schnee {hours} (für {duration} Stunden)"
     ],
     "no_precipitation": [
-      "Kein Regen oder Schnee {time_context}",
+      "Kein Regen {time_context}",
       "Trocken {time_context}",
       "Klarer Himmel {time_context}"
     ]
@@ -144,7 +144,7 @@
       "可能{hours}下雪 (持续{duration}小时)"
     ],
     "no_precipitation": [
-      "{time_context}无雨雪",
+      "{time_context}无雨",
       "{time_context}天气干燥",
       "{time_context}晴朗"
     ]
@@ -174,7 +174,7 @@
       "शायद {hours} बर्फबारी ({duration} घंटे)"
     ],
     "no_precipitation": [
-      "{time_context} बारिश या बर्फबारी नहीं",
+      "{time_context} बारिश नहीं",
       "{time_context} सूखा रहेगा",
       "{time_context} साफ आसमान"
     ]
@@ -204,7 +204,7 @@
       "ثلوج محتملة {hours} (لمدة {duration} ساعات)"
     ],
     "no_precipitation": [
-      "لا أمطار أو ثلوج {time_context}",
+      "لا أمطار {time_context}",
       "جو جاف {time_context}",
       "سماء صافية {time_context}"
     ]
@@ -234,7 +234,7 @@
       "Neve provável {hours} (por {duration} horas)"
     ],
     "no_precipitation": [
-      "Sem chuva ou neve {time_context}",
+      "Sem chuva {time_context}",
       "Seco {time_context}",
       "Céu limpo {time_context}"
     ]
@@ -264,7 +264,7 @@
       "Вероятен снег {hours} (на {duration} часов)"
     ],
     "no_precipitation": [
-      "Без дождя и снега {time_context}",
+      "Без дождя {time_context}",
       "Сухо {time_context}",
       "Ясное небо {time_context}"
     ]
@@ -294,7 +294,7 @@
       "{hours}に雪が降るかも ({duration}時間)"
     ],
     "no_precipitation": [
-      "{time_context}雨や雪の予想なし",
+      "{time_context}雨の予想なし",
       "{time_context}乾燥",
       "{time_context}晴れ"
     ]
