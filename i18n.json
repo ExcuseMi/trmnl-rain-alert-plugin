@@ -1,7 +1,7 @@
 {
   "en": {
     "soon": "soon",
-    "hours": "h",
+    "hours": "hours",
     "rain_now_duration": [
       "It's raining now, should last {duration} hours",
       "Rainfall for the next {duration} hours",
@@ -30,7 +30,7 @@
   },
   "es": {
     "soon": "pronto",
-    "hours": "h",
+    "hours": "horas",
     "rain_now_duration": [
       "Está lloviendo ahora, durará {duration} horas",
       "Lluvia durante las próximas {duration} horas",
@@ -59,7 +59,7 @@
   },
   "fr": {
     "soon": "bientôt",
-    "hours": "h",
+    "hours": "heures",
     "rain_now_duration": [
       "Il pleut maintenant, devrait durer {duration} heures",
       "Pluie pendant {duration} heures",
@@ -88,7 +88,7 @@
   },
   "de": {
     "soon": "bald",
-    "hours": "h",
+    "hours": "Stunden",
     "rain_now_duration": [
       "Es regnet jetzt, dauert {duration} Stunden",
       "Regen für {duration} Stunden",
@@ -175,26 +175,26 @@
   },
   "ar": {
     "soon": "قريباً",
-    "hours": "ساعة",
+    "hours": "ساعات",
     "rain_now_duration": [
-      "تمطر الآن، ستستمر {duration} ساعة",
-      "أمطار لمدة {duration} ساعة",
-      "تمطر الآن، تستمر {duration} ساعة"
+      "تمطر الآن، ستستمر {duration} ساعات",
+      "أمطار لمدة {duration} ساعات",
+      "تمطر الآن، تستمر {duration} ساعات"
     ],
     "snow_now_duration": [
-      "تثلج الآن، ستستمر {duration} ساعة",
-      "ثلوج لمدة {duration} ساعة",
-      "تثلج الآن، تستمر {duration} ساعة"
+      "تثلج الآن، ستستمر {duration} ساعات",
+      "ثلوج لمدة {duration} ساعات",
+      "تثلج الآن، تستمر {duration} ساعات"
     ],
     "rain_later_duration": [
-      "أمطار {hours} (لمدة {duration} ساعة)",
-      "أمطار متوقعة {hours} (تستمر {duration} ساعة)",
-      "أمطار محتملة {hours} (لمدة {duration} ساعة)"
+      "أمطار {hours} (لمدة {duration} ساعات)",
+      "أمطار متوقعة {hours} (تستمر {duration} ساعات)",
+      "أمطار محتملة {hours} (لمدة {duration} ساعات)"
     ],
     "snow_later_duration": [
-      "ثلوج {hours} (لمدة {duration} ساعة)",
-      "ثلوج متوقعة {hours} (تستمر {duration} ساعة)",
-      "ثلوج محتملة {hours} (لمدة {duration} ساعة)"
+      "ثلوج {hours} (لمدة {duration} ساعات)",
+      "ثلوج متوقعة {hours} (تستمر {duration} ساعات)",
+      "ثلوج محتملة {hours} (لمدة {duration} ساعات)"
     ],
     "no_precipitation": [
       "لا أمطار أو ثلوج {hours}",
@@ -204,7 +204,7 @@
   },
   "pt": {
     "soon": "em breve",
-    "hours": "h",
+    "hours": "horas",
     "rain_now_duration": [
       "Está chovendo agora, deve durar {duration} horas",
       "Chuva por {duration} horas",
@@ -233,7 +233,7 @@
   },
   "ru": {
     "soon": "скоро",
-    "hours": "ч",
+    "hours": "часов",
     "rain_now_duration": [
       "Сейчас идет дождь, продлится {duration} часов",
       "Дождь в течение {duration} часов",
