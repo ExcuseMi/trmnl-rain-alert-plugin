@@ -29,6 +29,7 @@
       "Clear skies {time_context}"
     ]
   },
+{
   "nl": {
     "soon": "binnenkort",
     "hours": "uur",
@@ -55,10 +56,11 @@
     ],
     "no_precipitation": [
       "Geen regen verwacht {time_context}",
-      "Blijft droog {time_context}",
-      "Heldere lucht {time_context}"
+      "Droog {time_context}",
+      "Opklaringen {time_context}"
     ]
-  },
+  }
+}
   "es": {
     "soon": "pronto",
     "hours": "horas",
